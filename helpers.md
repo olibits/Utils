@@ -7,6 +7,8 @@
     - Java
     - Comment in line \(Android Studio\)
 - Fragments of code
+    - Validate if a EditText is empty
+    - Disabe autofocus in forms when new Activity is calling
     - User JSON Response Login
     - Basic structure for a TextWatcher
     - Validate mail in a EditText
@@ -68,6 +70,25 @@
 ```
 
 ## Fragments of code
+
+### Validate if a EditText is empty
+
+```Java
+
+    if (somethinString.matches("")){
+        somethinEditText.setError("Something text);
+        return;
+    }
+
+```
+
+### Disabe autofocus in forms when new Activity is calling
+
+```Java
+
+    this.getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
+
+```
 
 ### User JSON Response Login
 

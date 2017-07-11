@@ -11,3 +11,5 @@
 #### Android
 
 - [Calligraphy](https://github.com/chrisjenx/Calligraphy)
+
+- [RMSwitch](https://github.com/RiccardoMoro/RMSwitch)
