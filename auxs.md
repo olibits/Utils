@@ -2,6 +2,26 @@
 
 ## Android
 
+### Temp ward
+
+```Java
+
+    ob_te_et_E04.setThreshold(0);
+    ob_te_et_E04.setAdapter(jobsByLevelAdapter);
+    ob_te_et_E04.setOnTouchListener(new View.OnTouchListener() {
+        @Override
+        public boolean onTouch(View v, MotionEvent event) {
+
+            if (ob_te_et_E04.getText().toString().equals("")){
+                ob_te_et_E04.showDropDown();
+            }
+            return false;
+        }
+    });
+
+
+```
+
 ### Switcher wacher state
 
 ```Java

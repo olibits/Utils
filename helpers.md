@@ -7,7 +7,9 @@
     - Java
     - Comment in line \(Android Studio\)
 - Fragments of code
+    - Force first letter capitalization for EditText
     - Validate if a EditText is empty
+    - Focus in specific element  to enter in a new layout to call
     - Disabe autofocus in forms when new Activity is calling
     - User JSON Response Login
     - Basic structure for a TextWatcher
@@ -19,6 +21,8 @@
     - Set BackParent Button un a ActionBar
     - Use ConstraintLayout in a ScrollView
     - Rules for a ConstraintLayout
+    - DatePicker implementation
+    - Nes Class Template
 
 <!-- /MarkdownTOC -->
 
@@ -42,6 +46,11 @@
 ### Java
 
 ```Java
+
+    //===============================================================================================================================================
+    // Title
+    //===============================================================================================================================================
+
 
     // Start Seccion //
 
@@ -71,6 +80,14 @@
 
 ## Fragments of code
 
+### Force first letter capitalization for EditText
+
+```XML
+
+    android:inputType="textCapSentences"
+
+```
+
 ### Validate if a EditText is empty
 
 ```Java
@@ -79,6 +96,14 @@
         somethinEditText.setError("Something text);
         return;
     }
+
+```
+
+### Focus in specific element  to enter in a new layout to call
+
+```XML
+
+    android:focusable="true"
 
 ```
 
@@ -148,10 +173,10 @@
 
 ```Java
 
+    AppTextsActivity appTextsActivity = new AppTextsActivity();
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
-        AppTextsActivity appTextsActivity = new AppTextsActivity();
 
         try {
             appTextsActivity.AppTextsConnect();
@@ -161,27 +186,23 @@
         }
 
         // Start Calligraphy constructor //
-
         CalligraphyConfig.initDefault(new CalligraphyConfig.Builder()
-            .setDefaultFontPath("fonts/Lato-Regular.ttf")
-            .setFontAttrId(R.attr.fontPath)
-            .build()
+                .setDefaultFontPath("fonts/Lato-Regular.ttf")
+                .setFontAttrId(R.attr.fontPath)
+                .build()
         );
-
         // End Calligraphy constructor //
 
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.[Acticity]);
+        setContentView(R.layout.onboarding_01_aboutyou);
 
-        }
+    }
 
     // Start Calligraphy activity //
-
     @Override
     protected void attachBaseContext(Context newBase) {
         super.attachBaseContext(CalligraphyContextWrapper.wrap(newBase));
     }
-
     // End Calligraphy activity //
 
 ```
@@ -375,5 +396,149 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         app:layout_constraintGuide_percent="1.0" />
+
+```
+
+### DatePicker implementation
+
+```Java
+
+    // Start Date Picker Intent //
+
+    /**
+     * This callback method, call DatePickerFragment class,
+     * DatePickerFragment class returns calendar view.
+     * @param view
+     */
+
+    public void datePicker(View view){
+
+        AboutYouActivity.DatePickerFragment fragment = new AboutYouActivity.DatePickerFragment();
+        fragment.show(getSupportFragmentManager(), "date");
+    }
+
+    /**
+     * To set date on TextView
+     * @param calendar
+     */
+    private void setDate(final Calendar calendar) {
+        final DateFormat dateFormat = DateFormat.getDateInstance(DateFormat.MEDIUM);
+        ((EditText) findViewById(R.id.ob_te_et_E06)).setText(dateFormat.format(calendar.getTime()));
+        ob_te_et_E06.setFocusable(false);
+
+    }
+
+    /**
+     * To receive a callback when the user sets the date.
+     * @param view
+     * @param year
+     * @param month
+     * @param day
+     */
+    @Override
+    public void onDateSet(DatePicker view, int year, int month, int day) {
+        Calendar cal = new GregorianCalendar(year, month, day);
+        setDate(cal);
+    }
+
+    /**
+     * Create a DatePickerFragment class that extends DialogFragment.
+     * Define the onCreateDialog() method to return an instance of DatePickerDialog
+     */
+    public static class DatePickerFragment extends DialogFragment {
+
+        @Override
+        public Dialog onCreateDialog(Bundle savedInstanceState) {
+            final Calendar c = Calendar.getInstance();
+            int year = c.get(Calendar.YEAR);
+            int month = c.get(Calendar.MONTH);
+            int day = c.get(Calendar.DAY_OF_MONTH);
+
+
+            return new DatePickerDialog(getActivity(),
+                    (DatePickerDialog.OnDateSetListener)
+                            getActivity(), year, month, day);
+        }
+
+    }
+
+    // End Date Picker Intent //
+
+```
+
+### Nes Class Template
+
+```Java
+
+import android.content.Context;
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+import com.brive.yooin.yooin.R;
+import com.brive.yooin.yooin.catalog.apptexts.AppTextsActivity;
+
+import java.io.IOException;
+
+import uk.co.chrisjenx.calligraphy.CalligraphyConfig;
+import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
+
+//===============================================================================================================================================
+// [ClassName] main
+//===============================================================================================================================================
+public class AboutYouActivity extends AppCompatActivity {
+
+    //===============================================================================================================================================
+    // Variables declaration
+    //===============================================================================================================================================
+    AppTextsActivity appTextsActivity = new AppTextsActivity();
+
+    //===============================================================================================================================================
+    // OnCreate main
+    //===============================================================================================================================================
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+
+        //===============================================================================================================================================
+        // Try and catch connections
+        //===============================================================================================================================================
+        try {
+        appTextsActivity.AppTextsConnect();
+        } catch (IOException e) {
+        e.printStackTrace();
+        }
+
+        //===============================================================================================================================================
+        // Sets and programmability configurations
+        //===============================================================================================================================================
+
+        // Start Calligraphy constructor //
+        CalligraphyConfig.initDefault(new CalligraphyConfig.Builder()
+        .setDefaultFontPath("fonts/Lato-Regular.ttf")
+        .setFontAttrId(R.attr.fontPath)
+        .build()
+        );
+        // End Calligraphy constructor //
+
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.onboarding_01_aboutyou);
+    }
+
+    //===============================================================================================================================================
+    // Welcome to Rachel's world. Don't touch, is magic!!!
+    //===============================================================================================================================================
+
+
+
+    //===============================================================================================================================================
+    // End magic 😭
+    //===============================================================================================================================================
+    
+    // Start Calligraphy activity //
+    @Override
+    protected void attachBaseContext(Context newBase) {
+    super.attachBaseContext(CalligraphyContextWrapper.wrap(newBase));
+    }
+    // End Calligraphy activity //
+}
 
 ```
