@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hello World</title>
+    <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.24/browser.min.js"></script>
+  </head>
+  <body>
+    <h2>React</h2>
+
+    <div id="marco"></div>
+
+    <script type="text/babel">
+
+    class Principal extends React.Component{
+
+        constructor(){
+            super();
+            this.state={
+                numero:0
+            }
+        }
+
+        masUno(){
+            this.state.numero++;
+            this.setState({numero: this.state.numero++});
+        }
+
+        render(){
+            return(
+                <div>
+                    <h2>Hi!</h2>
+                    <IntroducirTexto/>
+                    <AumentarNumero numero={this.state.numero} funAumentar={this.masUno.bind(this)}/>
+                </div>
+            );
+        }
+    }
+
+    class AumentarNumero extends React.Component{
+
+        render(){
+            return(
+                <div>
+                    <p>{this.props.numero}</p>
+                    <button onClick={this.props.funAumentar}>Aumentar</button>
+                </div>
+            );
+        }
+    }
+
+    class IntroducirTexto extends React.Component{
+
+        constructor(){
+            super();
+            this.state={
+                numero:"Izma"
+            }
+        }
+
+        cambiarNombre(evento){
+            this.setState({nombre: evento.target.value});
+        }
+
+        render(){
+            return(
+                <div>
+                    <h4>{this.state.nombre}</h4>
+                    <input onChange={this.cambiarNombre.bind(this)}/>
+                    <h2>Otro componente</h2>
+                </div>
+            );
+        }
+    }
+
+    ReactDOM.render(
+        <Principal/>,
+        document.getElementById('marco')
+    );
+
+    </script>
+  </body>
+</html>
