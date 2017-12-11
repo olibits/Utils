@@ -2,14 +2,6 @@
 
 ## Fragments of code
 
-### Enable Back Home Button in Android
-
-```Java
-    void SetActionBarSettings(){
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-    }
-```
-
 ### Code Base for Activities in Android
 
 ```Java
