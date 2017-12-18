@@ -1,14 +1,8 @@
 # Utils
 
-# Izma
+## This project has a compilation of examples and and utilities
 
-## This project has a compilation of examples
-
-## Icon App
-
-+ [Icon_cat](https://www.iconfinder.com/icons/2316008/bar_cafe_cat_fun_icon#size=128)
-
-## Libraries Occupied
+### Libraries Occupied
 
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy)
 * [Logger](https://github.com/orhanobut/logger)

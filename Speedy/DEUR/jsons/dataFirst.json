@@ -1,0 +1,175 @@
+{
+      "id": 7000,
+      "content": "Dispositivos Conectados",
+      "priority": 14,
+      "dataSecond": [
+        {
+          "id": 163,
+          "content": "LG",
+          "priority": 1,
+          "dataThird": {
+            "header": {
+              "subsection": {
+                "id": 163,
+                "style": 69,
+                "text": "LG"
+              }
+            },
+            "body": {
+              "image": [
+                {
+                  "id": 5410,
+                  "text": "http://c.n2c.mx/f30f9d79-298a-4810-a448-4b0bae4f0408/LG.png",
+                  "priority": 1
+                }
+              ]
+            }
+          },
+          "template": 7,
+          "style": 69
+        },
+        {
+          "id": 164,
+          "content": "LANIX",
+          "priority": 2,
+          "dataThird": {
+            "header": {
+              "subsection": {
+                "id": 164,
+                "style": 70,
+                "text": "LANIX"
+              }
+            },
+            "body": {
+              "image": [
+                {
+                  "id": 5411,
+                  "text": "http://c.n2c.mx/2d1072b4-9f2c-473f-955d-ace71cb1683d/LANIX.png",
+                  "priority": 1
+                }
+              ]
+            }
+          },
+          "template": 7,
+          "style": 70
+        },
+        {
+          "id": 165,
+          "content": "ZTE",
+          "priority": 3,
+          "dataThird": {
+            "header": {
+              "subsection": {
+                "id": 165,
+                "style": 71,
+                "text": "ZTE"
+              }
+            },
+            "body": {
+              "image": [
+                {
+                  "id": 5412,
+                  "text": "http://c.n2c.mx/a13364bd-ddb4-4809-8b2c-7dddcb89a708/ZTE.png",
+                  "priority": 1
+                }
+              ]
+            }
+          },
+          "template": 7,
+          "style": 71
+        },
+        {
+          "id": 166,
+          "content": "HUAWEI",
+          "priority": 4,
+          "dataThird": {
+            "header": {
+              "subsection": {
+                "id": 166,
+                "style": 70,
+                "text": "HUAWEI"
+              }
+            },
+            "body": {
+              "image": [
+                {
+                  "id": 5413,
+                  "text": "http://c.n2c.mx/30f73bd0-03dd-4457-8aa4-e6e28e293331/HUAWEI.png",
+                  "priority": 1
+                }
+              ]
+            }
+          },
+          "template": 7,
+          "style": 70
+        },
+        {
+          "id": 167,
+          "content": "SAMSUNG",
+          "priority": 5,
+          "dataThird": {
+            "header": {
+              "subsection": {
+                "id": 167,
+                "style": 69,
+                "text": "SAMSUNG"
+              }
+            },
+            "body": {
+              "image": [
+                {
+                  "id": 5414,
+                  "text": "http://c.n2c.mx/7d20090b-7bd4-4088-8af7-3eb142230a0e/SAMSUNG.png",
+                  "priority": 1
+                }
+              ]
+            }
+          },
+          "template": 7,
+          "style": 69
+        },
+        {
+          "id": 168,
+          "content": "NYX",
+          "priority": 6,
+          "dataThird": {
+            "header": {
+              "subsection": {
+                "id": 168,
+                "style": 72,
+                "text": "NYX"
+              }
+            },
+            "body": {
+              "image": [
+                {
+                  "id": 5415,
+                  "text": "http://c.n2c.mx/660a852a-3f36-4ff4-b9e2-931520d36cf6/NYX.png",
+                  "priority": 1
+                }
+              ]
+            }
+          },
+          "template": 7,
+          "style": 72
+        },
+        {
+          "id": 169,
+          "content": "POLAROID",
+          "priority": 7,
+          "dataThird": {
+            "header": {
+              "subsection": {
+                "id": 169,
+                "style": 69,
+                "text": "POLAROID"
+              }
+            },
+            "body": {}
+          },
+          "template": 7,
+          "style": 69
+        }
+      ],
+      "style": 30
+    }

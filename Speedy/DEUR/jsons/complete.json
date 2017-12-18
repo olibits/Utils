@@ -1,0 +1,1458 @@
+{
+          "id": 145,
+          "content": "Activación Inmediata Para Plazo Forzoso",
+          "priority": 1,
+          "dataThird": {
+            "header": {
+              "subsection": {
+                "id": 145,
+                "style": 59,
+                "text": "Activación Inmediata Para Plazo Forzoso"
+              }
+            },
+            "body": {
+              "data": [
+                {
+                  "name": {
+                    "id": 1745,
+                    "style": 160,
+                    "text": "VIP",
+                    "priority": 1
+                  },
+                  "titleContDescr": [
+                    {
+                      "title": {
+                        "id": 1753,
+                        "style": 14,
+                        "text": "VIP con Tarjeta de Crédito",
+                        "priority": 10
+                      },
+                      "content": [
+                        {
+                          "benefit": {
+                            "id": 1754,
+                            "style": 156,
+                            "text": "Rentas por adelantado y/o deposito",
+                            "priority": 11
+                          },
+                          "description": {
+                            "id": 1755,
+                            "style": 157,
+                            "text": "0",
+                            "priority": 12
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1762,
+                            "style": 156,
+                            "text": "Máximo de líneas por cliente Telcel y Buró de Credito",
+                            "priority": 13
+                          },
+                          "description": {
+                            "id": 1763,
+                            "style": 157,
+                            "text": "Hasta 16, *De acuerdo al Esquema de Activación Cliente VIP",
+                            "priority": 14
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1764,
+                            "style": 156,
+                            "text": "Plan (Renta mensual)",
+                            "priority": 15
+                          },
+                          "description": {
+                            "id": 1765,
+                            "style": 157,
+                            "text": "Cualquier Gama",
+                            "priority": 16
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1766,
+                            "style": 156,
+                            "text": "Verificación Previa (Equipos con valor mayor a 300 USD)",
+                            "priority": 17
+                          },
+                          "description": {
+                            "id": 1767,
+                            "style": 157,
+                            "text": "2 Referencias (al menos 1 Fija)",
+                            "priority": 18
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1768,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 19
+                          },
+                          "description": {
+                            "id": 1769,
+                            "style": 157,
+                            "text": "Financiamiento telcel",
+                            "priority": 20
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1770,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 21
+                          },
+                          "description": {
+                            "id": 1771,
+                            "style": 157,
+                            "text": "Meses Sin Intereses Pago con Tarjeta Crédito o Efectivo",
+                            "priority": 22
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1772,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 23
+                          },
+                          "description": {
+                            "id": 1773,
+                            "style": 157,
+                            "text": "Hasta $13,200",
+                            "priority": 24
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1774,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 25
+                          },
+                          "description": {
+                            "id": 1775,
+                            "style": 157,
+                            "text": "Meses Sin Intereses Pago con Tarjeta Crédito o Efectivo",
+                            "priority": 26
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1776,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 27
+                          },
+                          "description": {
+                            "id": 1777,
+                            "style": 157,
+                            "text": "Hasta $13,200",
+                            "priority": 28
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "title": {
+                        "id": 1780,
+                        "style": 14,
+                        "text": "VIP con Efectivo",
+                        "priority": 50
+                      },
+                      "content": [
+                        {
+                          "benefit": {
+                            "id": 1790,
+                            "style": 156,
+                            "text": "Rentas por adelantado y/o deposito",
+                            "priority": 51
+                          },
+                          "description": {
+                            "id": 1791,
+                            "style": 157,
+                            "text": "0",
+                            "priority": 52
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1792,
+                            "style": 156,
+                            "text": "Máximo de líneas por cliente Telcel y Buró de Credito",
+                            "priority": 53
+                          },
+                          "description": {
+                            "id": 1793,
+                            "style": 157,
+                            "text": "Hasta 16, *De acuerdo al Esquema de Activación Cliente VIP",
+                            "priority": 54
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1794,
+                            "style": 156,
+                            "text": "Plan (Renta mensual)",
+                            "priority": 55
+                          },
+                          "description": {
+                            "id": 1795,
+                            "style": 157,
+                            "text": "Cualquier Gama",
+                            "priority": 56
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1796,
+                            "style": 156,
+                            "text": "Verificación Previa (Equipos con valor mayor a 300 USD)",
+                            "priority": 57
+                          },
+                          "description": {
+                            "id": 1797,
+                            "style": 157,
+                            "text": "2 Referencias (al menos 1 Fija)",
+                            "priority": 58
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1798,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 59
+                          },
+                          "description": {
+                            "id": 1799,
+                            "style": 157,
+                            "text": "Meses Sin Intereses Pago con Tarjeta Crédito o Efectivo",
+                            "priority": 60
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1800,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 61
+                          },
+                          "description": {
+                            "id": 1801,
+                            "style": 157,
+                            "text": "$0",
+                            "priority": 62
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1802,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 63
+                          },
+                          "description": {
+                            "id": 1803,
+                            "style": 157,
+                            "text": "Meses Sin Intereses Pago con Tarjeta Crédito o Efectivo",
+                            "priority": 64
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1804,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 65
+                          },
+                          "description": {
+                            "id": 1805,
+                            "style": 157,
+                            "text": "Hasta $13,200",
+                            "priority": 66
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "id": 1808,
+                    "style": 161,
+                    "text": "EXCELENTE",
+                    "priority": 100
+                  },
+                  "titleContDescr": [
+                    {
+                      "title": {
+                        "id": 1809,
+                        "style": 14,
+                        "text": "Excelente con Tarjeta de Crédito",
+                        "priority": 110
+                      },
+                      "content": [
+                        {
+                          "benefit": {
+                            "id": 1813,
+                            "style": 156,
+                            "text": "Rentas por adelantado y/o deposito",
+                            "priority": 111
+                          },
+                          "description": {
+                            "id": 1814,
+                            "style": 157,
+                            "text": "0",
+                            "priority": 112
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1815,
+                            "style": 156,
+                            "text": "Máximo de líneas por cliente Telcel y Buró de Credito",
+                            "priority": 113
+                          },
+                          "description": {
+                            "id": 1816,
+                            "style": 157,
+                            "text": "5",
+                            "priority": 114
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1817,
+                            "style": 156,
+                            "text": "Plan (Renta mensual)",
+                            "priority": 115
+                          },
+                          "description": {
+                            "id": 1818,
+                            "style": 157,
+                            "text": "Cualquier Gama",
+                            "priority": 116
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1819,
+                            "style": 156,
+                            "text": "Verificación Previa (Equipos con valor mayor a 300 USD)",
+                            "priority": 117
+                          },
+                          "description": {
+                            "id": 1820,
+                            "style": 157,
+                            "text": "2 Referencias (al menos 1 Fija)",
+                            "priority": 118
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1821,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 119
+                          },
+                          "description": {
+                            "id": 1822,
+                            "style": 157,
+                            "text": "Financiamiento telcel",
+                            "priority": 120
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1823,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 121
+                          },
+                          "description": {
+                            "id": 1824,
+                            "style": 157,
+                            "text": "Meses Sin Intereses Pago con Tarjeta Crédito o Efectivo",
+                            "priority": 122
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1825,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 123
+                          },
+                          "description": {
+                            "id": 1826,
+                            "style": 157,
+                            "text": "Hasta $13,200",
+                            "priority": 124
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1827,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 125
+                          },
+                          "description": {
+                            "id": 1828,
+                            "style": 157,
+                            "text": "Meses Sin Intereses Pago con Tarjeta Crédito o Efectivo",
+                            "priority": 126
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1829,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 127
+                          },
+                          "description": {
+                            "id": 1830,
+                            "style": 157,
+                            "text": "Hasta $13,200",
+                            "priority": 128
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "title": {
+                        "id": 1833,
+                        "style": 14,
+                        "text": "Excelente con Efectivo",
+                        "priority": 150
+                      },
+                      "content": [
+                        {
+                          "benefit": {
+                            "id": 1849,
+                            "style": 156,
+                            "text": "Rentas por adelantado y/o deposito",
+                            "priority": 151
+                          },
+                          "description": {
+                            "id": 1850,
+                            "style": 157,
+                            "text": "0",
+                            "priority": 152
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1851,
+                            "style": 156,
+                            "text": "Máximo de líneas por cliente Telcel y Buró de Credito",
+                            "priority": 153
+                          },
+                          "description": {
+                            "id": 1852,
+                            "style": 157,
+                            "text": "5",
+                            "priority": 154
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1853,
+                            "style": 156,
+                            "text": "Plan (Renta mensual)",
+                            "priority": 155
+                          },
+                          "description": {
+                            "id": 1854,
+                            "style": 157,
+                            "text": "Cualquier Gama",
+                            "priority": 156
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1855,
+                            "style": 156,
+                            "text": "Verificación Previa (Equipos con valor mayor a 300 USD)",
+                            "priority": 157
+                          },
+                          "description": {
+                            "id": 1856,
+                            "style": 157,
+                            "text": "2 Referencias (al menos 1 Fija)",
+                            "priority": 158
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1857,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 159
+                          },
+                          "description": {
+                            "id": 1858,
+                            "style": 157,
+                            "text": "Meses Sin Intereses Pago con Tarjeta Crédito o Efectivo",
+                            "priority": 160
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1859,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 161
+                          },
+                          "description": {
+                            "id": 1860,
+                            "style": 157,
+                            "text": "$0",
+                            "priority": 162
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1861,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 163
+                          },
+                          "description": {
+                            "id": 1862,
+                            "style": 157,
+                            "text": "Meses Sin Intereses Pago con Tarjeta Crédito o Efectivo",
+                            "priority": 164
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1863,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 165
+                          },
+                          "description": {
+                            "id": 1864,
+                            "style": 157,
+                            "text": "Hasta $13,200",
+                            "priority": 166
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "id": 1884,
+                    "style": 162,
+                    "text": "BUENO",
+                    "priority": 200
+                  },
+                  "titleContDescr": [
+                    {
+                      "title": {
+                        "id": 1887,
+                        "style": 14,
+                        "text": "Bueno con Tarjeta de Crédito",
+                        "priority": 210
+                      },
+                      "content": [
+                        {
+                          "benefit": {
+                            "id": 1893,
+                            "style": 156,
+                            "text": "Rentas por adelantado y/o deposito",
+                            "priority": 211
+                          },
+                          "description": {
+                            "id": 1894,
+                            "style": 157,
+                            "text": "0",
+                            "priority": 212
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1895,
+                            "style": 156,
+                            "text": "Máximo de líneas por cliente Telcel y Buró de Credito",
+                            "priority": 213
+                          },
+                          "description": {
+                            "id": 1896,
+                            "style": 157,
+                            "text": "3",
+                            "priority": 214
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1897,
+                            "style": 156,
+                            "text": "Plan (Renta mensual)",
+                            "priority": 215
+                          },
+                          "description": {
+                            "id": 1898,
+                            "style": 157,
+                            "text": "Cualquier Gama",
+                            "priority": 216
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1899,
+                            "style": 156,
+                            "text": "Verificación Previa (Equipos con valor mayor a 300 USD)",
+                            "priority": 217
+                          },
+                          "description": {
+                            "id": 1900,
+                            "style": 157,
+                            "text": "2 Referencias (al menos 1 Fija)",
+                            "priority": 218
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1901,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 219
+                          },
+                          "description": {
+                            "id": 1902,
+                            "style": 157,
+                            "text": "Financiamiento telcel",
+                            "priority": 220
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1903,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 221
+                          },
+                          "description": {
+                            "id": 1904,
+                            "style": 157,
+                            "text": "Meses Sin Intereses Pago con Tarjeta Crédito o Efectivo",
+                            "priority": 222
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1905,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 223
+                          },
+                          "description": {
+                            "id": 1906,
+                            "style": 157,
+                            "text": "Hasta $9,400",
+                            "priority": 224
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1907,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 225
+                          },
+                          "description": {
+                            "id": 1908,
+                            "style": 157,
+                            "text": "Meses Sin Intereses Pago con Tarjeta Crédito o Efectivo",
+                            "priority": 226
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1909,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 227
+                          },
+                          "description": {
+                            "id": 1910,
+                            "style": 157,
+                            "text": "Hasta $9,400",
+                            "priority": 228
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "title": {
+                        "id": 1911,
+                        "style": 14,
+                        "text": "Bueno con Efectivo",
+                        "priority": 250
+                      },
+                      "content": [
+                        {
+                          "benefit": {
+                            "id": 1922,
+                            "style": 156,
+                            "text": "Rentas por adelantado y/o deposito",
+                            "priority": 251
+                          },
+                          "description": {
+                            "id": 1923,
+                            "style": 157,
+                            "text": "0",
+                            "priority": 252
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1924,
+                            "style": 156,
+                            "text": "Máximo de líneas por cliente Telcel y Buró de Credito",
+                            "priority": 253
+                          },
+                          "description": {
+                            "id": 1937,
+                            "style": 157,
+                            "text": "3",
+                            "priority": 254
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1925,
+                            "style": 156,
+                            "text": "Plan (Renta mensual)",
+                            "priority": 255
+                          },
+                          "description": {
+                            "id": 1926,
+                            "style": 157,
+                            "text": "Cualquier Gama",
+                            "priority": 256
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1927,
+                            "style": 156,
+                            "text": "Verificación Previa (Equipos con valor mayor a 300 USD)",
+                            "priority": 257
+                          },
+                          "description": {
+                            "id": 1928,
+                            "style": 157,
+                            "text": "2 Referencias (al menos 1 Fija)",
+                            "priority": 258
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1929,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 259
+                          },
+                          "description": {
+                            "id": 1930,
+                            "style": 157,
+                            "text": "Meses Sin Intereses Pago con Tarjeta Crédito o Efectivo",
+                            "priority": 260
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1931,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 261
+                          },
+                          "description": {
+                            "id": 1932,
+                            "style": 157,
+                            "text": "$0",
+                            "priority": 262
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1933,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 263
+                          },
+                          "description": {
+                            "id": 1934,
+                            "style": 157,
+                            "text": "Meses Sin Intereses Pago con Tarjeta Crédito o Efectivo",
+                            "priority": 264
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1935,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 265
+                          },
+                          "description": {
+                            "id": 1936,
+                            "style": 157,
+                            "text": "Hasta $9,400",
+                            "priority": 266
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "id": 1938,
+                    "style": 163,
+                    "text": "REGULAR",
+                    "priority": 300
+                  },
+                  "titleContDescr": [
+                    {
+                      "title": {
+                        "id": 1941,
+                        "style": 14,
+                        "text": "Regular con Tarjeta de Crédito",
+                        "priority": 310
+                      },
+                      "content": [
+                        {
+                          "benefit": {
+                            "id": 1942,
+                            "style": 156,
+                            "text": "Rentas por adelantado y/o deposito",
+                            "priority": 311
+                          },
+                          "description": {
+                            "id": 1943,
+                            "style": 157,
+                            "text": "1",
+                            "priority": 312
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1944,
+                            "style": 156,
+                            "text": "Máximo de líneas por cliente Telcel y Buró de Credito",
+                            "priority": 313
+                          },
+                          "description": {
+                            "id": 1945,
+                            "style": 157,
+                            "text": "2",
+                            "priority": 314
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1946,
+                            "style": 156,
+                            "text": "Plan (Renta mensual)",
+                            "priority": 315
+                          },
+                          "description": {
+                            "id": 1947,
+                            "style": 157,
+                            "text": "Equipo Premium renta mensual $649",
+                            "priority": 316
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1948,
+                            "style": 156,
+                            "text": "Verificación Previa (Equipos con valor mayor a 300 USD)",
+                            "priority": 317
+                          },
+                          "description": {
+                            "id": 1949,
+                            "style": 157,
+                            "text": "2 Referencias (al menos 1 Fija)",
+                            "priority": 318
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1950,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 319
+                          },
+                          "description": {
+                            "id": 1951,
+                            "style": 157,
+                            "text": "Financiamiento telcel",
+                            "priority": 320
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1952,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 321
+                          },
+                          "description": {
+                            "id": 1953,
+                            "style": 157,
+                            "text": "Meses Sin Intereses Pago con Tarjeta Crédito o Efectivo",
+                            "priority": 322
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1954,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 323
+                          },
+                          "description": {
+                            "id": 1955,
+                            "style": 157,
+                            "text": "Hasta $5,700",
+                            "priority": 324
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1956,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 325
+                          },
+                          "description": {
+                            "id": 1957,
+                            "style": 157,
+                            "text": "Meses Sin Intereses Pago con Tarjeta Crédito o Efectivo",
+                            "priority": 326
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1958,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 327
+                          },
+                          "description": {
+                            "id": 1959,
+                            "style": 157,
+                            "text": "Hasta $5,700",
+                            "priority": 328
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "title": {
+                        "id": 1960,
+                        "style": 14,
+                        "text": "Regular con Efectivo",
+                        "priority": 350
+                      },
+                      "content": [
+                        {
+                          "benefit": {
+                            "id": 1961,
+                            "style": 156,
+                            "text": "Rentas por adelantado y/o deposito",
+                            "priority": 351
+                          },
+                          "description": {
+                            "id": 1962,
+                            "style": 157,
+                            "text": "1",
+                            "priority": 352
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1963,
+                            "style": 156,
+                            "text": "Máximo de líneas por cliente Telcel y Buró de Credito",
+                            "priority": 353
+                          },
+                          "description": {
+                            "id": 1964,
+                            "style": 157,
+                            "text": "2",
+                            "priority": 354
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1965,
+                            "style": 156,
+                            "text": "Plan (Renta mensual)",
+                            "priority": 355
+                          },
+                          "description": {
+                            "id": 1966,
+                            "style": 157,
+                            "text": "Equipo Premium renta mensual $499",
+                            "priority": 356
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1967,
+                            "style": 156,
+                            "text": "Verificación Previa (Equipos con valor mayor a 300 USD)",
+                            "priority": 357
+                          },
+                          "description": {
+                            "id": 1968,
+                            "style": 157,
+                            "text": "1 Referencia fija en equipos con valor a 300 USD",
+                            "priority": 358
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1969,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 359
+                          },
+                          "description": {
+                            "id": 1970,
+                            "style": 157,
+                            "text": "Meses Sin Intereses Pago con Tarjeta Crédito o Efectivo",
+                            "priority": 360
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1971,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 361
+                          },
+                          "description": {
+                            "id": 1972,
+                            "style": 157,
+                            "text": "$0",
+                            "priority": 362
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1973,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 363
+                          },
+                          "description": {
+                            "id": 1974,
+                            "style": 157,
+                            "text": "Meses Sin Intereses Pago con Tarjeta Crédito o Efectivo",
+                            "priority": 364
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1975,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 365
+                          },
+                          "description": {
+                            "id": 1976,
+                            "style": 157,
+                            "text": "Hasta $5,700",
+                            "priority": 366
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "id": 1983,
+                    "style": 164,
+                    "text": "SIN HISTORIAL",
+                    "priority": 400
+                  },
+                  "titleContDescr": [
+                    {
+                      "title": {
+                        "id": 1984,
+                        "style": 14,
+                        "text": "Sin historial tarjeta de credito",
+                        "priority": 410
+                      },
+                      "content": [
+                        {
+                          "benefit": {
+                            "id": 1995,
+                            "style": 156,
+                            "text": "Rentas por adelantado y/o deposito",
+                            "priority": 411
+                          },
+                          "description": {
+                            "id": 1996,
+                            "style": 157,
+                            "text": "1",
+                            "priority": 412
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1997,
+                            "style": 156,
+                            "text": "Máximo de líneas por cliente Telcel y Buró de Credito",
+                            "priority": 413
+                          },
+                          "description": {
+                            "id": 1998,
+                            "style": 157,
+                            "text": "2",
+                            "priority": 414
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 1999,
+                            "style": 156,
+                            "text": "Plan (Renta mensual)",
+                            "priority": 415
+                          },
+                          "description": {
+                            "id": 2000,
+                            "style": 157,
+                            "text": "Equipo Premium renta mensual $649",
+                            "priority": 416
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 2001,
+                            "style": 156,
+                            "text": "Verificación Previa (Equipos con valor mayor a 300 USD)",
+                            "priority": 417
+                          },
+                          "description": {
+                            "id": 2002,
+                            "style": 157,
+                            "text": "2 Referencias (al menos 1 Fija)",
+                            "priority": 418
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 2003,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 419
+                          },
+                          "description": {
+                            "id": 2004,
+                            "style": 157,
+                            "text": "Meses Sin Intereses Pago con Tarjeta Crédito o Efectivo",
+                            "priority": 420
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 2005,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 421
+                          },
+                          "description": {
+                            "id": 2006,
+                            "style": 157,
+                            "text": "$0",
+                            "priority": 422
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 2007,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 423
+                          },
+                          "description": {
+                            "id": 2008,
+                            "style": 157,
+                            "text": "Hasta $2,500*",
+                            "priority": 424
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 2009,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 425
+                          },
+                          "description": {
+                            "id": 2010,
+                            "style": 157,
+                            "text": "* Si requiere aumento del Límite de Crédito debe esperar al resultado de la Verificación Domiciliaria con Estudio Socioeconómico",
+                            "priority": 426
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "title": {
+                        "id": 2011,
+                        "style": 14,
+                        "text": "Sin historial con efectivo",
+                        "priority": 450
+                      },
+                      "content": [
+                        {
+                          "benefit": {
+                            "id": 2012,
+                            "style": 156,
+                            "text": "Rentas por adelantado y/o deposito",
+                            "priority": 451
+                          },
+                          "description": {
+                            "id": 2013,
+                            "style": 157,
+                            "text": "1",
+                            "priority": 452
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 2014,
+                            "style": 156,
+                            "text": "Máximo de líneas por cliente Telcel y Buró de Credito",
+                            "priority": 453
+                          },
+                          "description": {
+                            "id": 2015,
+                            "style": 157,
+                            "text": "2",
+                            "priority": 454
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 2016,
+                            "style": 156,
+                            "text": "Plan (Renta mensual)",
+                            "priority": 455
+                          },
+                          "description": {
+                            "id": 2017,
+                            "style": 157,
+                            "text": "3",
+                            "priority": 456
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 2018,
+                            "style": 156,
+                            "text": "Verificación Previa (Equipos con valor mayor a 300 USD)",
+                            "priority": 457
+                          },
+                          "description": {
+                            "id": 2019,
+                            "style": 157,
+                            "text": "4",
+                            "priority": 458
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 2020,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 459
+                          },
+                          "description": {
+                            "id": 2021,
+                            "style": 157,
+                            "text": "5",
+                            "priority": 460
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 2022,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 461
+                          },
+                          "description": {
+                            "id": 2023,
+                            "style": 157,
+                            "text": "6",
+                            "priority": 462
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 2024,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 463
+                          },
+                          "description": {
+                            "id": 2025,
+                            "style": 157,
+                            "text": "7",
+                            "priority": 464
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 2026,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 465
+                          },
+                          "description": {
+                            "id": 2027,
+                            "style": 157,
+                            "text": "8",
+                            "priority": 466
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "id": 2028,
+                    "style": 165,
+                    "text": "SIN VALIDACIÓN",
+                    "priority": 500
+                  },
+                  "titleContDescr": [
+                    {
+                      "title": {
+                        "id": 2029,
+                        "style": 14,
+                        "text": "Sin validación",
+                        "priority": 510
+                      },
+                      "content": [
+                        {
+                          "benefit": {
+                            "id": 2030,
+                            "style": 156,
+                            "text": "Rentas por adelantado y/o deposito",
+                            "priority": 511
+                          },
+                          "description": {
+                            "id": 2031,
+                            "style": 157,
+                            "text": "Depósito de consumo + Depósito de equipo",
+                            "priority": 512
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 2032,
+                            "style": 156,
+                            "text": "Máximo de líneas por cliente Telcel y Buró de Credito",
+                            "priority": 513
+                          },
+                          "description": {
+                            "id": 2033,
+                            "style": 157,
+                            "text": "Depósito de consumo + Depósito de equipo",
+                            "priority": 514
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 2034,
+                            "style": 156,
+                            "text": "Plan (Renta mensual)",
+                            "priority": 515
+                          },
+                          "description": {
+                            "id": 2035,
+                            "style": 157,
+                            "text": "Depósito de consumo + Depósito de equipo",
+                            "priority": 516
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 2036,
+                            "style": 156,
+                            "text": "Verificación Previa (Equipos con valor mayor a 300 USD)",
+                            "priority": 517
+                          },
+                          "description": {
+                            "id": 2037,
+                            "style": 157,
+                            "text": "Depósito de consumo + Depósito de equipo",
+                            "priority": 518
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 2038,
+                            "style": 156,
+                            "text": "Equipo Premium Financiamiento",
+                            "priority": 519
+                          },
+                          "description": {
+                            "id": 2039,
+                            "style": 157,
+                            "text": "Depósito de consumo + Depósito de equipo",
+                            "priority": 520
+                          }
+                        },
+                        {
+                          "benefit": {
+                            "id": 2040,
+                            "style": 156,
+                            "text": "Equipo No Premium Financiamiento",
+                            "priority": 521
+                          },
+                          "description": {
+                            "id": 2041,
+                            "style": 157,
+                            "text": "Depósito de consumo + Depósito de equipo",
+                            "priority": 522
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "comments": [
+                {
+                  "id": 2042,
+                  "style": 158,
+                  "text": "Activación inmediata (60 min.) con verificación Domiciliaria Posterior.",
+                  "priority": 600
+                }
+              ]
+            }
+          },
+          "template": 11,
+          "style": 59
+        }
