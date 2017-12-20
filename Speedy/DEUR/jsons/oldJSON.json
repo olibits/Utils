@@ -21337,159 +21337,14 @@
       "id": 114,
       "content": "Paquetes adicionales",
       "priority": 7,
+      "style": 24,
       "dataSecond": [
-        {
-          "id": 129,
-          "content": "Complementarios",
-          "priority": 1,
-          "dataThird": {
-            "header": {
-              "subsection": {
-                "id": 129,
-                "style": 73,
-                "text": "Complementarios"
-              }
-            },
-            "body": {
-              "data": [
-                {
-                  "name": {
-                    "id": 1119,
-                    "style": 85,
-                    "text": "Consideraciones",
-                    "priority": 1
-                  },
-                  "titleContent": [
-                    {
-                      "title": {
-                        "id": 1120,
-                        "style": 14,
-                        "text": "Al consumirse los Datos incluidos en el plan, el cliente recibirá una notificación SMS invita al cliente a elegir: ",
-                        "priority": 10
-                      }
-                    },
-                    {
-                      "title": {
-                        "id": 1121,
-                        "style": 14,
-                        "text": "Activar un Paquete Complementario:",
-                        "priority": 20
-                      },
-                      "content": [
-                        {
-                          "id": 1122,
-                          "style": 79,
-                          "text": "Desde la página WAP o WEB a la que el usuario es redireccionado ",
-                          "priority": 21
-                        },
-                        {
-                          "id": 1123,
-                          "style": 79,
-                          "text": "Envía un SMS a la marcaión 5050 con la clave",
-                          "priority": 22
-                        },
-                        {
-                          "id": 1124,
-                          "style": 79,
-                          "text": "Marca *111 desde tu Telcel",
-                          "priority": 23
-                        },
-                        {
-                          "id": 1125,
-                          "style": 79,
-                          "text": "En el centro de atención a clientes",
-                          "priority": 24
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 1144,
-                        "style": 14,
-                        "text": "Paquete 500 MB",
-                        "priority": 30
-                      },
-                      "content": [
-                        {
-                          "id": 1145,
-                          "style": 79,
-                          "text": "Costo: $99.00",
-                          "priority": 31
-                        },
-                        {
-                          "id": 1146,
-                          "style": 79,
-                          "text": "Clave: AD500",
-                          "priority": 32
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 1147,
-                        "style": 14,
-                        "text": "Paquete 1000",
-                        "priority": 40
-                      },
-                      "content": [
-                        {
-                          "id": 1148,
-                          "style": 79,
-                          "text": "Costo: $199",
-                          "priority": 41
-                        },
-                        {
-                          "id": 1149,
-                          "style": 79,
-                          "text": "Clave: AD1G",
-                          "priority": 42
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 1151,
-                        "style": 14,
-                        "text": "Los MB incluidos en el Paquete deben consumirse dentro del ciclo de facturación. ",
-                        "priority": 50
-                      }
-                    },
-                    {
-                      "title": {
-                        "id": 1152,
-                        "style": 14,
-                        "text": "Al terminar el mes de facturación los Datos del paquete no consumidos se eliminan.",
-                        "priority": 60
-                      }
-                    },
-                    {
-                      "title": {
-                        "id": 1157,
-                        "style": 14,
-                        "text": "Su uso es dentro del territorio nacional. ",
-                        "priority": 70
-                      }
-                    },
-                    {
-                      "title": {
-                        "id": 1158,
-                        "style": 14,
-                        "text": "Continuar navegando en el esquema de Cobro por consumo (Granel) con la tarifa de $0.25 por MB ",
-                        "priority": 80
-                      }
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "template": 2,
-          "style": 73
-        },
         {
           "id": 130,
           "content": "Más Megas",
           "priority": 2,
+          "template": 18,
+          "style": 50,
           "dataThird": {
             "header": {
               "subsection": {
@@ -22156,9 +22011,7 @@
                 }
               ]
             }
-          },
-          "template": 18,
-          "style": 50
+          }
         },
         {
           "id": 131,
@@ -24022,114 +23875,6 @@
                   "tablePaquete": [
                     {
                       "paquete": {
-                        "id": 4947,
-                        "text": "$5",
-                        "priority": 10
-                      },
-                      "content": [
-                        {
-                          "title": {
-                            "id": 4948,
-                            "style": 150,
-                            "text": "Megas",
-                            "priority": 11
-                          },
-                          "description": {
-                            "id": 4949,
-                            "style": 143,
-                            "text": "10 MB",
-                            "priority": 12
-                          },
-                          "icons": {
-                            "id": 4950,
-                            "text": "1-0-0",
-                            "priority": 13
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4951,
-                            "style": 151,
-                            "text": "WhatsApp (No incluye llamadas de voz)",
-                            "priority": 14
-                          },
-                          "description": {
-                            "id": 4952,
-                            "style": 143,
-                            "text": "No aplica",
-                            "priority": 15
-                          },
-                          "icons": {
-                            "id": 4953,
-                            "text": "1-0-0",
-                            "priority": 16
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4954,
-                            "style": 150,
-                            "text": "Facebook y Twitter (No inluye llamadas de voz) ",
-                            "priority": 17
-                          },
-                          "description": {
-                            "id": 4955,
-                            "style": 143,
-                            "text": "No aplica",
-                            "priority": 18
-                          },
-                          "icons": {
-                            "id": 4956,
-                            "text": "1-0-0",
-                            "priority": 19
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4957,
-                            "style": 150,
-                            "text": "Vigencia",
-                            "priority": 20
-                          },
-                          "description": {
-                            "id": 4958,
-                            "style": 143,
-                            "text": "1 día",
-                            "priority": 21
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4959,
-                            "style": 151,
-                            "text": "Clave Recurrentes",
-                            "priority": 22
-                          },
-                          "description": {
-                            "id": 4960,
-                            "style": 143,
-                            "text": "Int5 recurrente",
-                            "priority": 23
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4961,
-                            "style": 150,
-                            "text": "Claves Bajo Demanda",
-                            "priority": 24
-                          },
-                          "description": {
-                            "id": 4962,
-                            "style": 143,
-                            "text": "Int5",
-                            "priority": 25
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "paquete": {
                         "id": 4963,
                         "text": "$20",
                         "priority": 40
@@ -24850,7 +24595,7 @@
                           "description": {
                             "id": 5070,
                             "style": 143,
-                            "text": "30 días",
+                            "text": "40 días",
                             "priority": 231
                           }
                         },
@@ -24958,7 +24703,7 @@
                           "description": {
                             "id": 5086,
                             "style": 143,
-                            "text": "30 días",
+                            "text": "50 días",
                             "priority": 261
                           }
                         },
@@ -25179,298 +24924,67 @@
           "style": 73
         },
         {
-          "id": 170,
-          "content": "Amigo Social + Video",
+          "id": 7000,
+          "content": "Paquetes Internet por Tiempo",
           "priority": 6,
+          "template": 6,
+          "style": 3,
           "dataThird": {
             "header": {
               "subsection": {
-                "id": 170,
-                "style": 73,
-                "text": "Amigo Social + Video"
+                "id": 7000,
+                "style": 3,
+                "text": "Paquetes Internet por Tiempo"
               }
             },
             "body": {
               "data": [
                 {
-                  "name": {
-                    "id": 5116,
-                    "style": 84,
-                    "text": "Paquetes Amigo Social + Video",
-                    "priority": 1
-                  },
-                  "tablePaquete": [
+                  "image": [
                     {
-                      "paquete": {
-                        "id": 5117,
-                        "text": "$20",
-                        "priority": 10
-                      },
-                      "content": [
-                        {
-                          "title": {
-                            "id": 5118,
-                            "style": 150,
-                            "text": "YouTube, Facebook y Twitter (No inluye llamadas de voz)",
-                            "priority": 11
-                          },
-                          "description": {
-                            "id": 5119,
-                            "style": 143,
-                            "text": "Ilimitado",
-                            "priority": 12
-                          },
-                          "icons": {
-                            "id": 5120,
-                            "text": "1-0-0",
-                            "priority": 13
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 5121,
-                            "style": 151,
-                            "text": "Vigencia",
-                            "priority": 14
-                          },
-                          "description": {
-                            "id": 5122,
-                            "style": 143,
-                            "text": "1 hora",
-                            "priority": 15
-                          },
-                          "icons": {
-                            "id": 5123,
-                            "text": "1-0-0",
-                            "priority": 16
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 5124,
-                            "style": 150,
-                            "text": "Clave 5050",
-                            "priority": 17
-                          },
-                          "description": {
-                            "id": 5125,
-                            "style": 143,
-                            "text": "video",
-                            "priority": 18
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "paquete": {
-                        "id": 5126,
-                        "text": "$30",
-                        "priority": 30
-                      },
-                      "content": [
-                        {
-                          "title": {
-                            "id": 5127,
-                            "style": 150,
-                            "text": "YouTube, Facebook y Twitter (No inluye llamadas de voz)",
-                            "priority": 31
-                          },
-                          "description": {
-                            "id": 5128,
-                            "style": 143,
-                            "text": "200 MB",
-                            "priority": 32
-                          },
-                          "icons": {
-                            "id": 5129,
-                            "text": "1-0-0",
-                            "priority": 33
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 5130,
-                            "style": 151,
-                            "text": "Vigencia",
-                            "priority": 34
-                          },
-                          "description": {
-                            "id": 5131,
-                            "style": 143,
-                            "text": "1 día",
-                            "priority": 35
-                          },
-                          "icons": {
-                            "id": 5132,
-                            "text": "1-0-0",
-                            "priority": 36
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 5133,
-                            "style": 150,
-                            "text": "Clave 5050",
-                            "priority": 37
-                          },
-                          "description": {
-                            "id": 5134,
-                            "style": 143,
-                            "text": "video1",
-                            "priority": 38
-                          }
-                        }
-                      ]
+                      "id": 7001,
+                      "text": "https://i.imgur.com/2oRaoEi.jpg",
+                      "priority": 1
                     }
-                  ]
-                },
-                {
-                  "name": {
-                    "id": 5135,
-                    "style": 180,
-                    "text": "Activa - Consulta",
-                    "priority": 50
-                  },
+                  ],
                   "titleContent": [
                     {
                       "title": {
-                        "id": 5136,
+                        "id": 7002,
                         "style": 14,
-                        "text": "Activa / Consulta",
-                        "priority": 51
-                      },
-                      "content": [
-                        {
-                          "id": 5137,
-                          "style": 86,
-                          "text": "Ingresa Mi Telcel (App, Móvil y Web).",
-                          "priority": 52
-                        },
-                        {
-                          "id": 5138,
-                          "style": 86,
-                          "text": "Desde la App Consumo de Internet.",
-                          "priority": 53
-                        },
-                        {
-                          "id": 5139,
-                          "style": 86,
-                          "text": "Marca *264 (sin costo).",
-                          "priority": 54
-                        },
-                        {
-                          "id": 5140,
-                          "style": 86,
-                          "text": "Marca *133# (sin costo).",
-                          "priority": 55
-                        },
-                        {
-                          "id": 5141,
-                          "style": 86,
-                          "text": "Envía un SMS a la Marcación 5050 (sin costo):",
-                          "priority": 56
-                        },
-                        {
-                          "id": 5142,
-                          "style": 86,
-                          "text": "Activa: Clave del Paquete",
-                          "priority": 57
-                        },
-                        {
-                          "id": 5143,
-                          "style": 86,
-                          "text": "Consulta: Consulta + [espacio] + Clave del Paquete",
-                          "priority": 58
-                        },
-                        {
-                          "id": 5144,
-                          "style": 86,
-                          "text": "Activa: a través de Street Seller (RAM), Dataire (RAW) y Cadenas Comerciales participantes.",
-                          "priority": 59
-                        },
-                        {
-                          "id": 5145,
-                          "style": 86,
-                          "text": "En tu Centro de Atención a Clientes más cercano.",
-                          "priority": 60
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "id": 5146,
-                    "style": 84,
-                    "text": "Contratalos",
-                    "priority": 80
-                  },
-                  "titleContent": [
-                    {
-                      "title": {
-                        "id": 5147,
-                        "style": 14,
-                        "text": "Contrátalos usando Saldo Amigo en:",
-                        "priority": 85
-                      },
-                      "content": [
-                        {
-                          "id": 5148,
-                          "style": 190,
-                          "text": "Amigo Sin Límite",
-                          "priority": 86
-                        },
-                        {
-                          "id": 5149,
-                          "style": 190,
-                          "text": "Amigo Optimo Plus Sin Frontera",
-                          "priority": 87
-                        },
-                        {
-                          "id": 5150,
-                          "style": 190,
-                          "text": "Otros esquemas Amigo",
-                          "priority": 88
-                        },
-                        {
-                          "id": 5151,
-                          "style": 190,
-                          "text": "Planes versión Consumo Controlado.",
-                          "priority": 89
-                        },
-                        {
-                          "id": 5152,
-                          "style": 190,
-                          "text": "No aplica a TiP ni esquemas BlackBerry",
-                          "priority": 90
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 5153,
-                        "style": 14,
-                        "text": "Contrátalos juntos:",
+                        "text": "Activación / Consulta",
                         "priority": 100
                       },
                       "content": [
                         {
-                          "id": 5154,
-                          "style": 190,
-                          "text": "Paquetes Amigo Sin Límite",
+                          "id": 7003,
+                          "style": 86,
+                          "text": "Por medio de SMS sin costo a la Marcación 5050",
                           "priority": 101
                         },
                         {
-                          "id": 5155,
-                          "style": 190,
-                          "text": "Paquetes Internet Telcel Amigo",
+                          "id": 7004,
+                          "style": 86,
+                          "text": "Activacion : Clave del Paquete",
                           "priority": 102
                         },
                         {
-                          "id": 5156,
-                          "style": 190,
-                          "text": "Paquetes Amigo Social + Video",
+                          "id": 7005,
+                          "style": 86,
+                          "text": "Consulta: Consulta + [espacio] + Clave del Paquete",
                           "priority": 103
+                        },
+                        {
+                          "id": 7006,
+                          "style": 86,
+                          "text": "Ingresando a Mi Telcel (App, Móvil y Web)",
+                          "priority": 104
+                        },
+                        {
+                          "id": 7007,
+                          "style": 86,
+                          "text": "Marcaciones sin costo: *133#",
+                          "priority": 105
                         }
                       ]
                     }
@@ -25478,9 +24992,7 @@
                 }
               ]
             }
-          },
-          "template": 20,
-          "style": 73
+          }
         },
         {
           "id": 134,
@@ -25609,434 +25121,8 @@
           },
           "template": 2,
           "style": 73
-        },
-        {
-          "id": 135,
-          "content": "Internet Amigo Viajero Internacional",
-          "priority": 8,
-          "dataThird": {
-            "header": {
-              "subsection": {
-                "id": 135,
-                "style": 50,
-                "text": "Internet Amigo Viajero Internacional"
-              }
-            },
-            "body": {
-              "data": [
-                {
-                  "name": {
-                    "id": 4254,
-                    "style": 81,
-                    "text": "Internet Amigo Viajero Internacional",
-                    "priority": 1
-                  },
-                  "tablePaquete": [
-                    {
-                      "paquete": {
-                        "id": 4255,
-                        "text": "Zona 1",
-                        "priority": 10
-                      },
-                      "content": [
-                        {
-                          "title": {
-                            "id": 4256,
-                            "style": 150,
-                            "text": "Cobertura",
-                            "priority": 11
-                          },
-                          "description": {
-                            "id": 4257,
-                            "style": 143,
-                            "text": "América Latina",
-                            "priority": 12
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4258,
-                            "style": 151,
-                            "text": "Paquete",
-                            "priority": 13
-                          },
-                          "description": {
-                            "id": 4259,
-                            "style": 143,
-                            "text": "150 MB",
-                            "priority": 14
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4260,
-                            "style": 150,
-                            "text": "Precio",
-                            "priority": 15
-                          },
-                          "description": {
-                            "id": 4261,
-                            "style": 143,
-                            "text": "$129.00",
-                            "priority": 16
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4262,
-                            "style": 150,
-                            "text": "Clave",
-                            "priority": 17
-                          },
-                          "description": {
-                            "id": 4263,
-                            "style": 143,
-                            "text": "DPR15",
-                            "priority": 18
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4264,
-                            "style": 151,
-                            "text": "Vigencia",
-                            "priority": 19
-                          },
-                          "description": {
-                            "id": 4265,
-                            "style": 143,
-                            "text": "1 día",
-                            "priority": 20
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "paquete": {
-                        "id": 4267,
-                        "text": "Zona 1",
-                        "priority": 30
-                      },
-                      "content": [
-                        {
-                          "title": {
-                            "id": 4268,
-                            "style": 150,
-                            "text": "Cobertura",
-                            "priority": 31
-                          },
-                          "description": {
-                            "id": 4269,
-                            "style": 143,
-                            "text": "América Latina",
-                            "priority": 32
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4270,
-                            "style": 151,
-                            "text": "Paquete",
-                            "priority": 33
-                          },
-                          "description": {
-                            "id": 4271,
-                            "style": 143,
-                            "text": "200 MB",
-                            "priority": 34
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4272,
-                            "style": 150,
-                            "text": "Precio",
-                            "priority": 35
-                          },
-                          "description": {
-                            "id": 4273,
-                            "style": 143,
-                            "text": "$459.00",
-                            "priority": 36
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4274,
-                            "style": 150,
-                            "text": "Clave",
-                            "priority": 37
-                          },
-                          "description": {
-                            "id": 4275,
-                            "style": 143,
-                            "text": "DPR20",
-                            "priority": 38
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4276,
-                            "style": 151,
-                            "text": "Vigencia",
-                            "priority": 39
-                          },
-                          "description": {
-                            "id": 4277,
-                            "style": 143,
-                            "text": "30 días",
-                            "priority": 40
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "paquete": {
-                        "id": 4278,
-                        "text": "Zona 1",
-                        "priority": 50
-                      },
-                      "content": [
-                        {
-                          "title": {
-                            "id": 4279,
-                            "style": 150,
-                            "text": "Cobertura",
-                            "priority": 51
-                          },
-                          "description": {
-                            "id": 4280,
-                            "style": 143,
-                            "text": "América Latina",
-                            "priority": 52
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4281,
-                            "style": 151,
-                            "text": "Paquete",
-                            "priority": 53
-                          },
-                          "description": {
-                            "id": 4282,
-                            "style": 143,
-                            "text": "1,000 MB",
-                            "priority": 54
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4283,
-                            "style": 150,
-                            "text": "Precio",
-                            "priority": 55
-                          },
-                          "description": {
-                            "id": 4284,
-                            "style": 143,
-                            "text": "$899.00",
-                            "priority": 56
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4285,
-                            "style": 150,
-                            "text": "Clave",
-                            "priority": 57
-                          },
-                          "description": {
-                            "id": 4286,
-                            "style": 143,
-                            "text": "DPR01",
-                            "priority": 58
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4287,
-                            "style": 151,
-                            "text": "Vigencia",
-                            "priority": 59
-                          },
-                          "description": {
-                            "id": 4288,
-                            "style": 143,
-                            "text": "7 días",
-                            "priority": 60
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "paquete": {
-                        "id": 4352,
-                        "text": "Zona 3",
-                        "priority": 70
-                      },
-                      "content": []
-                    },
-                    {
-                      "paquete": {
-                        "id": 4289,
-                        "text": "Zona 3",
-                        "priority": 70
-                      },
-                      "content": [
-                        {
-                          "title": {
-                            "id": 4290,
-                            "style": 150,
-                            "text": "Cobertura",
-                            "priority": 71
-                          },
-                          "description": {
-                            "id": 4291,
-                            "style": 143,
-                            "text": "Cobertura Mundial  Incluye los países de Zona 1, Zona 2 y Zona 3",
-                            "priority": 72
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4292,
-                            "style": 151,
-                            "text": "Paquete",
-                            "priority": 73
-                          },
-                          "description": {
-                            "id": 4293,
-                            "style": 143,
-                            "text": "50 MB",
-                            "priority": 74
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4294,
-                            "style": 150,
-                            "text": "Precio",
-                            "priority": 75
-                          },
-                          "description": {
-                            "id": 4295,
-                            "style": 143,
-                            "text": "$1949.00",
-                            "priority": 76
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4296,
-                            "style": 150,
-                            "text": "Clave",
-                            "priority": 77
-                          },
-                          "description": {
-                            "id": 4297,
-                            "style": 143,
-                            "text": "50MUND",
-                            "priority": 78
-                          }
-                        },
-                        {
-                          "title": {
-                            "id": 4298,
-                            "style": 151,
-                            "text": "Vigencia",
-                            "priority": 79
-                          },
-                          "description": {
-                            "id": 4299,
-                            "style": 143,
-                            "text": "30 días",
-                            "priority": 80
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "id": 4317,
-                    "style": 84,
-                    "text": "Consideraciones",
-                    "priority": 85
-                  },
-                  "image": [
-                    {
-                      "id": 4326,
-                      "text": "http://c.n2c.mx/8c681093-7cce-45c6-a6c8-d7a6d275202d/P-39.png",
-                      "priority": 86
-                    }
-                  ],
-                  "titleContent": [
-                    {
-                      "title": {
-                        "id": 4318,
-                        "style": 14,
-                        "text": "Activa:",
-                        "priority": 100
-                      },
-                      "content": [
-                        {
-                          "id": 4319,
-                          "style": 83,
-                          "text": "Envía un SMS sin costo a la marcación 5050 con la clave correspondiente.",
-                          "priority": 101
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 4328,
-                        "style": 14,
-                        "text": "Consulta:",
-                        "priority": 102
-                      },
-                      "content": [
-                        {
-                          "id": 4329,
-                          "style": 83,
-                          "text": "Marca *133# SEND y selecciona la opción \"Consulta de saldo\". Costos por Consulta de saldo $0.45 USD.",
-                          "priority": 103
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 4330,
-                        "style": 14,
-                        "text": "Restricciones:",
-                        "priority": 104
-                      },
-                      "content": [
-                        {
-                          "id": 4331,
-                          "style": 83,
-                          "text": "No aplica para Consumo Controlado.",
-                          "priority": 105
-                        },
-                        {
-                          "id": 4332,
-                          "style": 83,
-                          "text": "Al término del paquete se cobra la tarifa de Roaming Internacional vigente. ",
-                          "priority": 106
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "template": 19,
-          "style": 50
         }
-      ],
-      "style": 24
+      ]
     },
     {
       "id": 115,
