@@ -25123,1622 +25123,2060 @@
           "style": 73
         }
       ]
-    },
+    }
+    ,
+
+{
+  "id": 115,
+  "content": "Productos de Valor Agregado",
+  "priority": 8,
+  "style": 25,
+  "dataSecond": [
     {
-      "id": 115,
-      "content": "Servicios adicionales",
-      "priority": 8,
-      "dataSecond": [
-        {
-          "id": 142,
-          "content": "Claro APPS",
-          "priority": 1,
-          "dataThird": {
-            "header": {
-              "subsection": {
-                "id": 142,
-                "style": 56,
-                "text": "Claro APPS"
-              }
-            },
-            "body": {
+      "id": 7008,
+      "content": "Mi Telcel",
+      "priority": 1,
+      "template": 5,
+      "style": 32,
+      "dataThird": {
+        "header": {
+          "subsection": {
+            "id": 7008,
+            "style": 32,
+            "text": "Mi Telcel"
+          }
+        },
+        "body": {
+          "bodyIntern": [
+            {
+              "name": {
+                "id": 7009,
+                "style": 14,
+                "text": "Funciones Disponibles",
+                "priority": 1
+              },
               "data": [
                 {
-                  "name": {
-                    "id": 4353,
-                    "style": 113,
-                    "text": "Claro apps",
-                    "priority": 1
-                  },
                   "image": [
                     {
-                      "id": 4354,
-                      "text": "http://c.n2c.mx/79de3813-d491-415a-aa42-3e63eab3c796/P-46_1.png",
+                      "id": 7010,
+                      "text": "https://i.imgur.com/2oRaoEi.jpg",
                       "priority": 2
                     }
                   ],
-                  "titleContent": [
+                  "content": [
                     {
-                      "title": {
-                        "id": 4355,
-                        "style": 14,
-                        "text": "Claro apps",
-                        "priority": 3
-                      },
-                      "content": [
-                        {
-                          "id": 4356,
-                          "style": 100,
-                          "text": "Tienda de aplicaciones Android: sin costo de navegación, sin costo por descarga. Contiene útiles aplicaciones gratuitas de Claro para tu Telcel. ",
-                          "priority": 4
-                        },
-                        {
-                          "id": 4357,
-                          "style": 100,
-                          "text": "Paga con tu Saldo Amigo o registra otros métodos de pago.",
-                          "priority": 5
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "id": 4358,
-                    "style": 84,
-                    "text": "Claro video",
-                    "priority": 10
-                  },
-                  "image": [
+                      "id": 7011,
+                      "style": 86,
+                      "text": "Lineas Postpago",
+                      "priority": 4
+                    },
                     {
-                      "id": 4359,
-                      "text": "http://c.n2c.mx/721ec50a-f565-4c89-9c45-afaf4f153bc1/P-46_2.png",
+                      "id": 7012,
+                      "style": 86,
+                      "text": "Consultar y pagar factura\n\n» Descargar las 3 últimas facturas\n» Solicitar recibir la factura electrónica a e-mail registrado\n» Consultar los 6 últimos pagos realizados\n» Pagar la factura con cargo a tarjeta",
+                      "priority": 5
+                    },
+                    {
+                      "id": 7013,
+                      "style": 86,
+                      "text": "Ver detalle de la línea\n\n» Indica el tipo de plan activo y los consumos de Internet\n» Consulta sin costo el detalle de llamadas en el resumen de la factura\n» Consultar el consumo de Megas",
+                      "priority": 6
+                    },
+                    {
+                      "id": 7014,
+                      "style": 86,
+                      "text": "Paquetes, Servicios y Suscripciones\n\nActivar o desactivar diferentes servicios adicionales como:\n» Buzón inteligente\n» Llamada en espera\n» Transferencia de llamadas\n» Identificador de llamadas\n» Conferencia Tripartita\n» Clarovideo\n» Claromúsica\n» Claro Apps\n» Internet Compartido\n» Paquetes de Viaje al Extranjero",
+                      "priority": 7
+                    },
+                    {
+                      "id": 7015,
+                      "style": 86,
+                      "text": "Líneas Prepago",
+                      "priority": 8
+                    },
+                    {
+                      "id": 7016,
+                      "style": 86,
+                      "text": "Consultar estado de cuenta\n\n» Consultar historial de recargas\n» Descargar los estados de cuenta Amigo en los ultimos 3 meses",
+                      "priority": 9
+                    },
+                    {
+                      "id": 7017,
+                      "style": 86,
+                      "text": "Ver detalle de la línea\n\n» Revisar el saldo y el esquema de cobro activo\n» Ca,biar el esquema de cobro de tu preferencia\n» Administrar Números Gratis\n» Consultar el consumo de Megas",
+                      "priority": 10
+                    },
+                    {
+                      "id": 7018,
+                      "style": 86,
+                      "text": "Paquetes, Servicios y Suscripciones\n\nActivar o desactivar diferentes servicios adicionales como:\n» Identificador de llamadas\n» Buzon inteligente\n» Clarovideo\n» Claromúsica\n» Claro Apps\n» Paquetes de Internet\n» Paquetes Amigo Sin Límite",
                       "priority": 11
                     }
-                  ],
-                  "titleContent": [
-                    {
-                      "title": {
-                        "id": 4360,
-                        "style": 14,
-                        "text": "Claro video",
-                        "priority": 12
-                      },
-                      "content": [
-                        {
-                          "id": 4361,
-                          "style": 100,
-                          "text": "Amplio catálogo de películas, series, documentales, conciertos, karaokes y más. Renta por 24 horas las películas más taquilleras al poco tiempo de haber salido en cines.",
-                          "priority": 13
-                        },
-                        {
-                          "id": 4362,
-                          "style": 100,
-                          "text": "Disponible para tu smartphone o tablet.",
-                          "priority": 14
-                        }
-                      ]
-                    }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "name": {
+                "id": 7019,
+                "style": 84,
+                "text": "Alta",
+                "priority": 101
+              },
+              "data": [
                 {
-                  "name": {
-                    "id": 4375,
-                    "style": 113,
-                    "text": "Amigo Telcel",
-                    "priority": 20
+                  "step": {
+                    "id": 7020,
+                    "style": 159,
+                    "text": "Paso 1",
+                    "priority": 102
                   },
                   "image": [
                     {
-                      "id": 4376,
-                      "text": "http://c.n2c.mx/24f9d9f2-37f5-4b49-98ff-9580a00a072c/P-46_3.png",
-                      "priority": 21
+                      "id": 7021,
+                      "text": "https://i.imgur.com/2oRaoEi.jpg",
+                      "priority": 103
                     }
                   ],
-                  "titleContent": [
+                  "content": [
                     {
-                      "title": {
-                        "id": 4377,
-                        "style": 14,
-                        "text": "Amigo Telcel",
-                        "priority": 22
-                      },
-                      "content": [
-                        {
-                          "id": 4378,
-                          "style": 100,
-                          "text": "Consulta tu saldo o Recarga Tiempo Aire con tarjeta de débito o crédito. Aprovecha otros servicios: Llamada x Cobrar, Llamada Patrocinada, Contestone y descarga de contenidos.",
-                          "priority": 23
-                        },
-                        {
-                          "id": 4379,
-                          "style": 100,
-                          "text": "Los servicios disponibles dependen del esquema contratado.",
-                          "priority": 24
-                        }
-                      ]
+                      "id": 7022,
+                      "style": 86,
+                      "text": "Ingresa a Mi Telcel",
+                      "priority": 104
+                    },
+                    {
+                      "id": 7023,
+                      "style": 86,
+                      "text": "Web: mitelcel.com\nDesde tu computadora",
+                      "priority": 105
+                    },
+                    {
+                      "id": 7024,
+                      "style": 86,
+                      "text": "Móvil: m.mitelcel.com\nDesde tu Smartphone o Tablet",
+                      "priority": 105
+                    },
+                    {
+                      "id": 7025,
+                      "style": 86,
+                      "text": "App: Descarga la aplicación\nDesde tu Smartphone o Tablet",
+                      "priority": 105
                     }
                   ]
                 },
                 {
-                  "name": {
-                    "id": 4387,
-                    "style": 84,
+                  "step": {
+                    "id": 7026,
+                    "style": 159,
+                    "text": "Paso 2",
+                    "priority": 102
+                  },
+                  "image": [
+                    {
+                      "id": 7027,
+                      "text": "https://i.imgur.com/2oRaoEi.jpg",
+                      "priority": 103
+                    }
+                  ],
+                  "content": [
+                    {
+                      "id": 7028,
+                      "style": 86,
+                      "text": "Seleciona la opcion \"Regístrate aquí\"",
+                      "priority": 104
+                    }
+                  ]
+                },
+                {
+                  "step": {
+                    "id": 7029,
+                    "style": 159,
+                    "text": "Paso 3",
+                    "priority": 102
+                  },
+                  "image": [
+                    {
+                      "id": 7030,
+                      "text": "https://i.imgur.com/2oRaoEi.jpg",
+                      "priority": 103
+                    }
+                  ],
+                  "content": [
+                    {
+                      "id": 7031,
+                      "style": 86,
+                      "text": "Digita el número de tu lunea y da clic en el botón \"Enviar\"",
+                      "priority": 104
+                    }
+                  ]
+                },
+                {
+                  "step": {
+                    "id": 7032,
+                    "style": 159,
+                    "text": "Paso 4",
+                    "priority": 102
+                  },
+                  "image": [
+                    {
+                      "id": 7033,
+                      "text": "https://i.imgur.com/2oRaoEi.jpg",
+                      "priority": 103
+                    }
+                  ],
+                  "content": [
+                    {
+                      "id": 7034,
+                      "style": 86,
+                      "text": "Ingresa tu número de línea y contraseña, que recibiras por mensaje SMS al numero que acabas de registrar",
+                      "priority": 104
+                    }
+                  ]
+                },
+                {
+                  "step": {
+                    "id": 7035,
+                    "style": 159,
+                    "text": "Paso 5",
+                    "priority": 102
+                  },
+                  "image": [
+                    {
+                      "id": 7036,
+                      "text": "https://i.imgur.com/2oRaoEi.jpg",
+                      "priority": 103
+                    }
+                  ],
+                  "content": [
+                    {
+                      "id": 7037,
+                      "style": 86,
+                      "text": "Llena tus datos generales: nombre, apellido, y correo electrónico",
+                      "priority": 104
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 7038,
+      "content": "Protección Móvil Telcel",
+      "priority": 2,
+      "dataThird": {
+        "header": {
+          "subsection": {
+            "id": 7038,
+            "style": 3,
+            "text": "Protección Móvil Telcel"
+          }
+        },
+        "body": {
+          "data": [
+            {
+              "image": [
+                {
+                  "id": 7039,
+                  "text": "https://i.imgur.com/2oRaoEi.jpg",
+                  "priority": 1
+                }
+              ],
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 7040,
+                    "style": 14,
+                    "text": "Requisitos",
+                    "priority": 100
+                  },
+                  "content": [
+                    {
+                      "id": 7041,
+                      "style": 86,
+                      "text": "Contar con Plazo Forzoso vigente",
+                      "priority": 101
+                    },
+                    {
+                      "id": 7042,
+                      "style": 86,
+                      "text": "El equipo debe ser provisto por Telcel",
+                      "priority": 102
+                    },
+                    {
+                      "id": 7043,
+                      "style": 86,
+                      "text": "Estar dentro del periodo de 30 días naturales a partir del alta o renovación de su plan",
+                      "priority": 103
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 7044,
+                    "style": 14,
+                    "text": "Activa en SISACT",
+                    "priority": 200
+                  },
+                  "content": [
+                    {
+                      "id": 7045,
+                      "style": 86,
+                      "text": "Al activar la línea, da de alta Protección Móvil Telcel en la sección de servicios.",
+                      "priority": 201
+                    },
+                    {
+                      "id": 7046,
+                      "style": 86,
+                      "text": "Para dar de alta el servicio en una fecha, dentro del periodo de 30 días naturales, posterior a la activación de la línea, marca *555 y solicita Protección Móvil Telcel para tu cliente.",
+                      "priority": 202
+                    },
+                    {
+                      "id": 7047,
+                      "style": 86,
+                      "text": "El alta del servicio es inmediata.",
+                      "priority": 203
+                    },
+                    {
+                      "id": 7048,
+                      "style": 86,
+                      "text": "Dentro de los 30 días posteriores a la fecha del alta tu cliente recibirá información del Producto y la Póliza en su domicilio.",
+                      "priority": 204
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 7049,
+                    "style": 14,
+                    "text": "TelcelUP",
+                    "priority": 300
+                  },
+                  "content": [
+                    {
+                      "id": 7050,
+                      "style": 86,
+                      "text": "Disponible al cumplir mínimo 12 meses continuos desde la activación de Protección Móvil Telcel.",
+                      "priority": 301
+                    },
+                    {
+                      "id": 7051,
+                      "style": 86,
+                      "text": "Más información: www.proteccionmovil.com.mx",
+                      "priority": 302
+                    },
+                    {
+                      "id": 7052,
+                      "style": 86,
+                      "text": "Información y Reporte de Siniestro: *788 ó 01800 0990802",
+                      "priority": 303
+                    },
+                    {
+                      "id": 7053,
+                      "style": 86,
+                      "text": "Consideraciones: El servicio se puede cancelar en cualquier momento. / No aplica olvidos o extravíos. / Al contar con 2 siniestros automáticamente se cancela el servicio. / No debe tener adeudos vencidos. / Plazo Forzoso debe estar vigente. / Aplican deducibles. / Protección Móvil Telcel no aplica para equipos adquiridos en Amigo Kit.",
+                      "priority": 304
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "template": 6,
+      "style": 3
+    },
+    {
+      "id": 7054,
+      "content": "Telcel UP",
+      "priority": 3,
+      "dataThird": {
+        "header": {
+          "subsection": {
+            "id": 7054,
+            "style": 4,
+            "text": "Telcel UP"
+          }
+        },
+        "body": {
+          "data": [
+            {
+              "image": [
+                {
+                  "id": 7055,
+                  "text": "https://i.imgur.com/2oRaoEi.jpg",
+                  "priority": 1
+                }
+              ],
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 7056,
+                    "style": 14,
+                    "text": "Trae tu equipo actual, renueva tu plan, escoge los mejores equipos gama alta y premium y olvídate de:",
+                    "priority": 5
+                  },
+                  "content": [
+                    {
+                      "id": 7057,
+                      "style": 86,
+                      "text": "los cargos por equipo restantes",
+                      "priority": 6
+                    },
+                    {
+                      "id": 7058,
+                      "style": 86,
+                      "text": "el incremento de meses al nuevo plazo",
+                      "priority": 7
+                    },
+                    {
+                      "id": 7059,
+                      "style": 86,
+                      "text": "los pagos restantes de equipo financiado",
+                      "priority": 8
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 7060,
+                    "style": 14,
+                    "text": "Activa o renueva tu línea y contrata Protección Móvil Telcel.",
+                    "priority": 20
+                  }
+                },
+                {
+                  "title": {
+                    "id": 7061,
+                    "style": 14,
+                    "text": "Más información: www.proteccionmovil.com.mx",
+                    "priority": 30
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "template": 6,
+      "style": 4
+    },
+    {
+      "id": 142,
+      "content": "Claro APPS",
+      "priority": 4,
+      "dataThird": {
+        "header": {
+          "subsection": {
+            "id": 142,
+            "style": 56,
+            "text": "Claro APPS"
+          }
+        },
+        "body": {
+          "data": [
+            {
+              "name": {
+                "id": 4353,
+                "style": 113,
+                "text": "Claro apps",
+                "priority": 1
+              },
+              "image": [
+                {
+                  "id": 4354,
+                  "text": "http://c.n2c.mx/79de3813-d491-415a-aa42-3e63eab3c796/P-46_1.png",
+                  "priority": 2
+                }
+              ],
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 4355,
+                    "style": 14,
+                    "text": "Claro apps",
+                    "priority": 3
+                  },
+                  "content": [
+                    {
+                      "id": 4356,
+                      "style": 100,
+                      "text": "Tienda de aplicaciones Android: sin costo de navegación, sin costo por descarga. Contiene útiles aplicaciones gratuitas de Claro para tu Telcel. ",
+                      "priority": 4
+                    },
+                    {
+                      "id": 4357,
+                      "style": 100,
+                      "text": "Paga con tu Saldo Amigo o registra otros métodos de pago.",
+                      "priority": 5
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": {
+                "id": 4358,
+                "style": 84,
+                "text": "Claro video",
+                "priority": 10
+              },
+              "image": [
+                {
+                  "id": 4359,
+                  "text": "http://c.n2c.mx/721ec50a-f565-4c89-9c45-afaf4f153bc1/P-46_2.png",
+                  "priority": 11
+                }
+              ],
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 4360,
+                    "style": 14,
+                    "text": "Claro video",
+                    "priority": 12
+                  },
+                  "content": [
+                    {
+                      "id": 4361,
+                      "style": 100,
+                      "text": "Amplio catálogo de películas, series, documentales, conciertos, karaokes y más. Renta por 24 horas las películas más taquilleras al poco tiempo de haber salido en cines.",
+                      "priority": 13
+                    },
+                    {
+                      "id": 4362,
+                      "style": 100,
+                      "text": "Disponible para tu smartphone o tablet.",
+                      "priority": 14
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": {
+                "id": 4375,
+                "style": 113,
+                "text": "Amigo Telcel",
+                "priority": 20
+              },
+              "image": [
+                {
+                  "id": 4376,
+                  "text": "http://c.n2c.mx/24f9d9f2-37f5-4b49-98ff-9580a00a072c/P-46_3.png",
+                  "priority": 21
+                }
+              ],
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 4377,
+                    "style": 14,
+                    "text": "Amigo Telcel",
+                    "priority": 22
+                  },
+                  "content": [
+                    {
+                      "id": 4378,
+                      "style": 100,
+                      "text": "Consulta tu saldo o Recarga Tiempo Aire con tarjeta de débito o crédito. Aprovecha otros servicios: Llamada x Cobrar, Llamada Patrocinada, Contestone y descarga de contenidos.",
+                      "priority": 23
+                    },
+                    {
+                      "id": 4379,
+                      "style": 100,
+                      "text": "Los servicios disponibles dependen del esquema contratado.",
+                      "priority": 24
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": {
+                "id": 4387,
+                "style": 84,
+                "text": "Claro Música",
+                "priority": 30
+              },
+              "image": [
+                {
+                  "id": 4389,
+                  "text": "http://c.n2c.mx/3ca42155-2f70-4642-aef6-06ebcd1b2197/P-46_4.png",
+                  "priority": 31
+                }
+              ],
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 4390,
+                    "style": 14,
                     "text": "Claro Música",
+                    "priority": 32
+                  },
+                  "content": [
+                    {
+                      "id": 4391,
+                      "style": 100,
+                      "text": "Música ilimitada con o sin conexión a Internet y sin cortes comerciales. Millones de canciones, tus artistas favoritos, últimos lanzamientos, playlists y radios.",
+                      "priority": 33
+                    },
+                    {
+                      "id": 4392,
+                      "style": 100,
+                      "text": "Comparte y sigue las playlists que tus contactos.",
+                      "priority": 34
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": {
+                "id": 4402,
+                "style": 113,
+                "text": "Transfer",
+                "priority": 40
+              },
+              "image": [
+                {
+                  "id": 4403,
+                  "text": "http://c.n2c.mx/c8e26ffd-f034-419f-9cc6-7251df278111/P-46_5.png",
+                  "priority": 41
+                }
+              ],
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 4405,
+                    "style": 14,
+                    "text": "Transfer",
+                    "priority": 42
+                  },
+                  "content": [
+                    {
+                      "id": 4406,
+                      "style": 100,
+                      "text": "Paga, envía y retira dinero al instante desde tu celular aún sin Internet Recarga saldo a cualquier Telcel.",
+                      "priority": 43
+                    },
+                    {
+                      "id": 4407,
+                      "style": 100,
+                      "text": "Activa llamando al *4040 desde tu Telcel y crear tu contraseña (NIP).",
+                      "priority": 44
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": {
+                "id": 4424,
+                "style": 84,
+                "text": "Claro Sync",
+                "priority": 50
+              },
+              "image": [
+                {
+                  "id": 4425,
+                  "text": "http://c.n2c.mx/150db7f5-638a-4157-9c4c-c6166ad2c201/P-46_6.png",
+                  "priority": 51
+                }
+              ],
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 4426,
+                    "style": 14,
+                    "text": "Claro Sync",
+                    "priority": 52
+                  },
+                  "content": [
+                    {
+                      "id": 4428,
+                      "style": 100,
+                      "text": "5GB GRATIS al crear tu cuenta. Almacena, respalda, sincroniza, recupera y comparte archivos en la nube, entre diferentes dispositivos",
+                      "priority": 53
+                    },
+                    {
+                      "id": 4429,
+                      "style": 100,
+                      "text": "*Servicio exclusivo para clientes Claro.",
+                      "priority": 54
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": {
+                "id": 4424,
+                "style": 84,
+                "text": "Claro Sync",
+                "priority": 50
+              },
+              "image": [
+                {
+                  "id": 4425,
+                  "text": "http://c.n2c.mx/150db7f5-638a-4157-9c4c-c6166ad2c201/P-46_6.png",
+                  "priority": 51
+                }
+              ],
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 4426,
+                    "style": 14,
+                    "text": "Claro Sync",
+                    "priority": 52
+                  },
+                  "content": [
+                    {
+                      "id": 4428,
+                      "style": 100,
+                      "text": "5GB GRATIS al crear tu cuenta. Almacena, respalda, sincroniza, recupera y comparte archivos en la nube, entre diferentes dispositivos",
+                      "priority": 53
+                    },
+                    {
+                      "id": 4429,
+                      "style": 100,
+                      "text": "*Servicio exclusivo para clientes Claro.",
+                      "priority": 54
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "template": 10,
+      "style": 56
+    },
+    {
+      "id": 136,
+      "content": "Renuévate",
+      "priority": 5,
+      "dataThird": {
+        "header": {
+          "subsection": {
+            "id": 136,
+            "style": 53,
+            "text": "Renuévate"
+          }
+        },
+        "body": {
+          "data": [
+            {
+              "image": [
+                {
+                  "id": 1368,
+                  "text": "http://c.n2c.mx/2d8fba00-9379-40b7-b8ca-24a558c857d3/%5e7C1022A0D3D5748E754CEDCAEFF0257D6AD276A1BE3B7E495E%5epimgpsh_fullsize_distr.png",
+                  "priority": 1
+                }
+              ],
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 1372,
+                    "style": 14,
+                    "text": "Proceso alta de equipo",
+                    "priority": 5
+                  },
+                  "content": [
+                    {
+                      "id": 1373,
+                      "style": 86,
+                      "text": "Marca al *ALTA",
+                      "priority": 6
+                    },
+                    {
+                      "id": 1374,
+                      "style": 86,
+                      "text": "Selecciona la opción 3.",
+                      "priority": 7
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 1375,
+                    "style": 14,
+                    "text": "Ingresa:",
+                    "priority": 10
+                  },
+                  "content": [
+                    {
+                      "id": 1376,
+                      "style": 86,
+                      "text": "Número de celular del cliente.",
+                      "priority": 11
+                    },
+                    {
+                      "id": 1377,
+                      "style": 86,
+                      "text": "IMEI (15 dígitos) del equipo nuevo",
+                      "priority": 12
+                    },
+                    {
+                      "id": 1378,
+                      "style": 86,
+                      "text": "19 dígitos del Chip",
+                      "priority": 13
+                    },
+                    {
+                      "id": 1379,
+                      "style": 86,
+                      "text": "Espera a que el sistema te indique “el cambio de equipo fue realizado con éxito”. ",
+                      "priority": 14
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "template": 6,
+      "style": 53
+    },
+    {
+      "id": 137,
+      "content": "Buy Back Telcel y Cambio Express Iphone",
+      "priority": 6,
+      "dataThird": {
+        "header": {
+          "subsection": {
+            "id": 137,
+            "style": 54,
+            "text": "Buy Back Telcel y Cambio Express Iphone"
+          }
+        },
+        "body": {
+          "data": [
+            {
+              "name": {
+                "id": 1171,
+                "style": 84,
+                "text": "Buy Back Telcel",
+                "priority": 1
+              },
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 1172,
+                    "style": 14,
+                    "text": "Convierte tu equipo usado en un voucher de descuento y compra de un equipo nuevo ",
+                    "priority": 10
+                  }
+                },
+                {
+                  "title": {
+                    "id": 1173,
+                    "style": 14,
+                    "text": "Recepción de equipo usado (Consulta el listado de equipos y precios). Todo equipo excepto de operadores extranjeros.",
+                    "priority": 20
+                  }
+                },
+                {
+                  "title": {
+                    "id": 1174,
+                    "style": 14,
+                    "text": "Evaluación del equipo para determinar su valor:",
                     "priority": 30
                   },
-                  "image": [
+                  "content": [
                     {
-                      "id": 4389,
-                      "text": "http://c.n2c.mx/3ca42155-2f70-4642-aef6-06ebcd1b2197/P-46_4.png",
-                      "priority": 31
-                    }
-                  ],
-                  "titleContent": [
+                      "id": 1175,
+                      "style": 86,
+                      "text": "Condición del equipo usado: debe estar funcionando.",
+                      "priority": 36
+                    },
                     {
-                      "title": {
-                        "id": 4390,
-                        "style": 14,
-                        "text": "Claro Música",
-                        "priority": 32
-                      },
-                      "content": [
-                        {
-                          "id": 4391,
-                          "style": 100,
-                          "text": "Música ilimitada con o sin conexión a Internet y sin cortes comerciales. Millones de canciones, tus artistas favoritos, últimos lanzamientos, playlists y radios.",
-                          "priority": 33
-                        },
-                        {
-                          "id": 4392,
-                          "style": 100,
-                          "text": "Comparte y sigue las playlists que tus contactos.",
-                          "priority": 34
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "id": 4402,
-                    "style": 113,
-                    "text": "Transfer",
-                    "priority": 40
-                  },
-                  "image": [
-                    {
-                      "id": 4403,
-                      "text": "http://c.n2c.mx/c8e26ffd-f034-419f-9cc6-7251df278111/P-46_5.png",
+                      "id": 1176,
+                      "style": 86,
+                      "text": "Validación de IMEI: no debe estar reportado por robo o extravío.",
                       "priority": 41
                     }
-                  ],
-                  "titleContent": [
-                    {
-                      "title": {
-                        "id": 4405,
-                        "style": 14,
-                        "text": "Transfer",
-                        "priority": 42
-                      },
-                      "content": [
-                        {
-                          "id": 4406,
-                          "style": 100,
-                          "text": "Paga, envía y retira dinero al instante desde tu celular aún sin Internet Recarga saldo a cualquier Telcel.",
-                          "priority": 43
-                        },
-                        {
-                          "id": 4407,
-                          "style": 100,
-                          "text": "Activa llamando al *4040 desde tu Telcel y crear tu contraseña (NIP).",
-                          "priority": 44
-                        }
-                      ]
-                    }
                   ]
                 },
                 {
-                  "name": {
-                    "id": 4424,
-                    "style": 84,
-                    "text": "Claro Sync",
+                  "title": {
+                    "id": 1185,
+                    "style": 14,
+                    "text": "Equipo Nuevo:",
                     "priority": 50
                   },
-                  "image": [
+                  "content": [
                     {
-                      "id": 4425,
-                      "text": "http://c.n2c.mx/150db7f5-638a-4157-9c4c-c6166ad2c201/P-46_6.png",
+                      "id": 1186,
+                      "style": 86,
+                      "text": "El cliente debe elegir el equipo nuevo que va a querer.",
                       "priority": 51
-                    }
-                  ],
-                  "titleContent": [
+                    },
                     {
-                      "title": {
-                        "id": 4426,
-                        "style": 14,
-                        "text": "Claro Sync",
-                        "priority": 52
-                      },
-                      "content": [
-                        {
-                          "id": 4428,
-                          "style": 100,
-                          "text": "5GB GRATIS al crear tu cuenta. Almacena, respalda, sincroniza, recupera y comparte archivos en la nube, entre diferentes dispositivos",
-                          "priority": 53
-                        },
-                        {
-                          "id": 4429,
-                          "style": 100,
-                          "text": "*Servicio exclusivo para clientes Claro.",
-                          "priority": 54
-                        }
-                      ]
+                      "id": 1187,
+                      "style": 86,
+                      "text": "El vendedor debe asegurarse de tener en existencia el equipo que el cliente quiere.",
+                      "priority": 52
+                    },
+                    {
+                      "id": 1188,
+                      "style": 86,
+                      "text": "*Es importante contar con existencias para finalizar con éxito todo el proceso.",
+                      "priority": 53
                     }
                   ]
                 },
                 {
-                  "name": {
-                    "id": 4424,
-                    "style": 84,
-                    "text": "Claro Sync",
-                    "priority": 50
+                  "title": {
+                    "id": 1189,
+                    "style": 14,
+                    "text": "En activaciones y renovaciones:",
+                    "priority": 60
                   },
-                  "image": [
+                  "content": [
                     {
-                      "id": 4425,
-                      "text": "http://c.n2c.mx/150db7f5-638a-4157-9c4c-c6166ad2c201/P-46_6.png",
-                      "priority": 51
+                      "id": 1190,
+                      "style": 86,
+                      "text": "aplica esquema de activaciones vigente.",
+                      "priority": 61
                     }
-                  ],
-                  "titleContent": [
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 1197,
+                    "style": 14,
+                    "text": "El voucher:",
+                    "priority": 70
+                  },
+                  "content": [
                     {
-                      "title": {
-                        "id": 4426,
-                        "style": 14,
-                        "text": "Claro Sync",
-                        "priority": 52
-                      },
-                      "content": [
-                        {
-                          "id": 4428,
-                          "style": 100,
-                          "text": "5GB GRATIS al crear tu cuenta. Almacena, respalda, sincroniza, recupera y comparte archivos en la nube, entre diferentes dispositivos",
-                          "priority": 53
-                        },
-                        {
-                          "id": 4429,
-                          "style": 100,
-                          "text": "*Servicio exclusivo para clientes Claro.",
-                          "priority": 54
-                        }
-                      ]
+                      "id": 1198,
+                      "style": 86,
+                      "text": "Solo para compra de un solo equipo: Amigo Kit, o pago de diferencia de equipos en activaciones y/o renovaciones de Planes Tarifarios",
+                      "priority": 71
+                    },
+                    {
+                      "id": 1199,
+                      "style": 86,
+                      "text": "Debe ser aplicado el mismo día y en el mismo Centro de Atención a Clientes dónde se imprimió y entregó el equipo.",
+                      "priority": 72
+                    },
+                    {
+                      "id": 1200,
+                      "style": 86,
+                      "text": "No hay devolución de dinero por “saldo restante”: el valor del equipo debe ser igual o mayor al valor del voucher (pagando la diferencia).",
+                      "priority": 73
                     }
                   ]
                 }
               ]
-            }
-          },
-          "template": 10,
-          "style": 56
-        },
-        {
-          "id": 136,
-          "content": "Renuévate",
-          "priority": 2,
-          "dataThird": {
-            "header": {
-              "subsection": {
-                "id": 136,
-                "style": 53,
-                "text": "Renuévate"
-              }
             },
-            "body": {
-              "data": [
+            {
+              "name": {
+                "id": 1201,
+                "style": 81,
+                "text": "Cambio Express Telcel para Iphone",
+                "priority": 100
+              },
+              "titleContent": [
                 {
-                  "image": [
+                  "title": {
+                    "id": 1203,
+                    "style": 14,
+                    "text": "Cambia tu iPhone de Telcel actual por un iPhone nuevo ",
+                    "priority": 110
+                  }
+                },
+                {
+                  "title": {
+                    "id": 1204,
+                    "style": 14,
+                    "text": "Sin terminar tu plazo forzoso, ni penalizaciones por renovación anticipada.",
+                    "priority": 111
+                  }
+                },
+                {
+                  "title": {
+                    "id": 1205,
+                    "style": 14,
+                    "text": "Requisitos:",
+                    "priority": 120
+                  },
+                  "content": [
                     {
-                      "id": 1368,
-                      "text": "http://c.n2c.mx/2d8fba00-9379-40b7-b8ca-24a558c857d3/%5e7C1022A0D3D5748E754CEDCAEFF0257D6AD276A1BE3B7E495E%5epimgpsh_fullsize_distr.png",
-                      "priority": 1
-                    }
-                  ],
-                  "titleContent": [
-                    {
-                      "title": {
-                        "id": 1372,
-                        "style": 14,
-                        "text": "Proceso alta de equipo",
-                        "priority": 5
-                      },
-                      "content": [
-                        {
-                          "id": 1373,
-                          "style": 86,
-                          "text": "Marca al *ALTA",
-                          "priority": 6
-                        },
-                        {
-                          "id": 1374,
-                          "style": 86,
-                          "text": "Selecciona la opción 3.",
-                          "priority": 7
-                        }
-                      ]
+                      "id": 1206,
+                      "style": 83,
+                      "text": "Tener contratado un plan tarifario vigente (abierto o consumo controlado) No aplica para clientes prepago ni planes empresariales/corporativos.",
+                      "priority": 121
                     },
                     {
-                      "title": {
-                        "id": 1375,
-                        "style": 14,
-                        "text": "Ingresa:",
-                        "priority": 10
-                      },
-                      "content": [
-                        {
-                          "id": 1376,
-                          "style": 86,
-                          "text": "Número de celular del cliente.",
-                          "priority": 11
-                        },
-                        {
-                          "id": 1377,
-                          "style": 86,
-                          "text": "IMEI (15 dígitos) del equipo nuevo",
-                          "priority": 12
-                        },
-                        {
-                          "id": 1378,
-                          "style": 86,
-                          "text": "19 dígitos del Chip",
-                          "priority": 13
-                        },
-                        {
-                          "id": 1379,
-                          "style": 86,
-                          "text": "Espera a que el sistema te indique “el cambio de equipo fue realizado con éxito”. ",
-                          "priority": 14
-                        }
-                      ]
+                      "id": 1207,
+                      "style": 83,
+                      "text": "+12 meses transcurridos desde la firma del contrato actual (plazo 24 meses) Solo si contrató a 36 meses, deberá tener al menos 18 meses transcurridos.",
+                      "priority": 122
+                    },
+                    {
+                      "id": 1208,
+                      "style": 83,
+                      "text": "Estar al corriente con su pago (No moroso) En caso de morosidad, deberá cubrir el saldo pendiente, para disfrutar del beneficio.",
+                      "priority": 123
+                    },
+                    {
+                      "id": 1209,
+                      "style": 83,
+                      "text": "Renovar anticipadamente en plan Telcel Max Sin Límite (renta igual o mayor al plan/plazo actual)",
+                      "priority": 124
                     }
                   ]
                 }
               ]
             }
-          },
-          "template": 6,
-          "style": 53
-        },
-        {
-          "id": 137,
-          "content": "Buy Back Telcel y Cambio Express Iphone",
-          "priority": 3,
-          "dataThird": {
-            "header": {
-              "subsection": {
-                "id": 137,
-                "style": 54,
-                "text": "Buy Back Telcel y Cambio Express Iphone"
-              }
-            },
-            "body": {
-              "data": [
-                {
-                  "name": {
-                    "id": 1171,
-                    "style": 84,
-                    "text": "Buy Back Telcel",
-                    "priority": 1
-                  },
-                  "titleContent": [
-                    {
-                      "title": {
-                        "id": 1172,
-                        "style": 14,
-                        "text": "Convierte tu equipo usado en un voucher de descuento y compra de un equipo nuevo ",
-                        "priority": 10
-                      }
-                    },
-                    {
-                      "title": {
-                        "id": 1173,
-                        "style": 14,
-                        "text": "Recepción de equipo usado (Consulta el listado de equipos y precios). Todo equipo excepto de operadores extranjeros.",
-                        "priority": 20
-                      }
-                    },
-                    {
-                      "title": {
-                        "id": 1174,
-                        "style": 14,
-                        "text": "Evaluación del equipo para determinar su valor:",
-                        "priority": 30
-                      },
-                      "content": [
-                        {
-                          "id": 1175,
-                          "style": 86,
-                          "text": "Condición del equipo usado: debe estar funcionando.",
-                          "priority": 36
-                        },
-                        {
-                          "id": 1176,
-                          "style": 86,
-                          "text": "Validación de IMEI: no debe estar reportado por robo o extravío.",
-                          "priority": 41
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 1185,
-                        "style": 14,
-                        "text": "Equipo Nuevo:",
-                        "priority": 50
-                      },
-                      "content": [
-                        {
-                          "id": 1186,
-                          "style": 86,
-                          "text": "El cliente debe elegir el equipo nuevo que va a querer.",
-                          "priority": 51
-                        },
-                        {
-                          "id": 1187,
-                          "style": 86,
-                          "text": "El vendedor debe asegurarse de tener en existencia el equipo que el cliente quiere.",
-                          "priority": 52
-                        },
-                        {
-                          "id": 1188,
-                          "style": 86,
-                          "text": "*Es importante contar con existencias para finalizar con éxito todo el proceso.",
-                          "priority": 53
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 1189,
-                        "style": 14,
-                        "text": "En activaciones y renovaciones:",
-                        "priority": 60
-                      },
-                      "content": [
-                        {
-                          "id": 1190,
-                          "style": 86,
-                          "text": "aplica esquema de activaciones vigente.",
-                          "priority": 61
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 1197,
-                        "style": 14,
-                        "text": "El voucher:",
-                        "priority": 70
-                      },
-                      "content": [
-                        {
-                          "id": 1198,
-                          "style": 86,
-                          "text": "Solo para compra de un solo equipo: Amigo Kit, o pago de diferencia de equipos en activaciones y/o renovaciones de Planes Tarifarios",
-                          "priority": 71
-                        },
-                        {
-                          "id": 1199,
-                          "style": 86,
-                          "text": "Debe ser aplicado el mismo día y en el mismo Centro de Atención a Clientes dónde se imprimió y entregó el equipo.",
-                          "priority": 72
-                        },
-                        {
-                          "id": 1200,
-                          "style": 86,
-                          "text": "No hay devolución de dinero por “saldo restante”: el valor del equipo debe ser igual o mayor al valor del voucher (pagando la diferencia).",
-                          "priority": 73
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "id": 1201,
-                    "style": 81,
-                    "text": "Cambio Express Telcel para Iphone",
-                    "priority": 100
-                  },
-                  "titleContent": [
-                    {
-                      "title": {
-                        "id": 1203,
-                        "style": 14,
-                        "text": "Cambia tu iPhone de Telcel actual por un iPhone nuevo ",
-                        "priority": 110
-                      }
-                    },
-                    {
-                      "title": {
-                        "id": 1204,
-                        "style": 14,
-                        "text": "Sin terminar tu plazo forzoso, ni penalizaciones por renovación anticipada.",
-                        "priority": 111
-                      }
-                    },
-                    {
-                      "title": {
-                        "id": 1205,
-                        "style": 14,
-                        "text": "Requisitos:",
-                        "priority": 120
-                      },
-                      "content": [
-                        {
-                          "id": 1206,
-                          "style": 83,
-                          "text": "Tener contratado un plan tarifario vigente (abierto o consumo controlado) No aplica para clientes prepago ni planes empresariales/corporativos.",
-                          "priority": 121
-                        },
-                        {
-                          "id": 1207,
-                          "style": 83,
-                          "text": "+12 meses transcurridos desde la firma del contrato actual (plazo 24 meses) Solo si contrató a 36 meses, deberá tener al menos 18 meses transcurridos.",
-                          "priority": 122
-                        },
-                        {
-                          "id": 1208,
-                          "style": 83,
-                          "text": "Estar al corriente con su pago (No moroso) En caso de morosidad, deberá cubrir el saldo pendiente, para disfrutar del beneficio.",
-                          "priority": 123
-                        },
-                        {
-                          "id": 1209,
-                          "style": 83,
-                          "text": "Renovar anticipadamente en plan Telcel Max Sin Límite (renta igual o mayor al plan/plazo actual)",
-                          "priority": 124
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "template": 2,
-          "style": 54
-        },
-        {
-          "id": 138,
-          "content": "Adelanta Saldo",
-          "priority": 4,
-          "dataThird": {
-            "header": {
-              "subsection": {
-                "id": 138,
-                "style": 55,
-                "text": "Adelanta Saldo"
-              }
-            },
-            "body": {
-              "bodyIntern": [
-                {
-                  "name": {
-                    "id": 3935,
-                    "style": 88,
-                    "text": "Adelanta Saldo",
-                    "priority": 1
-                  },
-                  "titleContent": [
-                    {
-                      "title": {
-                        "id": 3936,
-                        "style": 14,
-                        "text": "Cuando tu Amigo se quede sin Saldo, Telcel te presta con Adelanta Saldo:",
-                        "priority": 5
-                      },
-                      "content": [
-                        {
-                          "id": 3937,
-                          "style": 86,
-                          "text": "Hata $15 de Saldo Amigo por adelantado. ",
-                          "priority": 6
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 3938,
-                        "style": 14,
-                        "text": "Antiguedad de la línea (Mayor a 6 meses)",
-                        "priority": 10
-                      },
-                      "content": [
-                        {
-                          "id": 3939,
-                          "style": 86,
-                          "text": "Promedio de recarga mensual: Mayor a $101",
-                          "priority": 11
-                        },
-                        {
-                          "id": 3940,
-                          "style": 86,
-                          "text": "Monto adelantado por Telcel: $15",
-                          "priority": 12
-                        },
-                        {
-                          "id": 3941,
-                          "style": 86,
-                          "text": "Costo por servicio: $1",
-                          "priority": 13
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 3942,
-                        "style": 14,
-                        "text": "Antiguedad de la línea (Mayor a 6 meses)",
-                        "priority": 15
-                      },
-                      "content": [
-                        {
-                          "id": 3943,
-                          "style": 86,
-                          "text": "Promedio de recarga mensual: De $51 a $100",
-                          "priority": 16
-                        },
-                        {
-                          "id": 3944,
-                          "style": 86,
-                          "text": "Monto adelantado por Telcel: $10",
-                          "priority": 17
-                        },
-                        {
-                          "id": 3945,
-                          "style": 86,
-                          "text": "Costo por servicio: $1",
-                          "priority": 18
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 3946,
-                        "style": 14,
-                        "text": "Antiguedad de la línea (De 3 a 6 meses)",
-                        "priority": 20
-                      },
-                      "content": [
-                        {
-                          "id": 3947,
-                          "style": 86,
-                          "text": "Promedio de recarga mensual: $40 a $50",
-                          "priority": 21
-                        },
-                        {
-                          "id": 3948,
-                          "style": 86,
-                          "text": "Monto adelantado por Telcel: $5",
-                          "priority": 22
-                        },
-                        {
-                          "id": 3949,
-                          "style": 86,
-                          "text": "Costo por servicio: $1",
-                          "priority": 23
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "id": 3950,
-                    "style": 84,
-                    "text": "Requisitos",
-                    "priority": 50
-                  },
-                  "titleContent": [
-                    {
-                      "title": {
-                        "id": 3951,
-                        "style": 14,
-                        "text": "Antigüedad de la línea: mínima de 6 meses.",
-                        "priority": 55
-                      },
-                      "content": [
-                        {
-                          "id": 3952,
-                          "style": 86,
-                          "text": "(A partir de la activación o de la primera llamada con costo).",
-                          "priority": 56
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 3953,
-                        "style": 14,
-                        "text": "Frecuencia de recargas:",
-                        "priority": 60
-                      },
-                      "content": [
-                        {
-                          "id": 3954,
-                          "style": 86,
-                          "text": "mínimo de 2 mensuales, durante los últimos 3 meses.*",
-                          "priority": 61
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 3955,
-                        "style": 14,
-                        "text": "Actividad de la línea:",
-                        "priority": 65
-                      },
-                      "content": [
-                        {
-                          "id": 3956,
-                          "style": 86,
-                          "text": "sin interrupción o restricción del servicio en los últimos 3 meses. (Interrupción del servicio es cuando ha pasado un tiempo mayor a la vigencia de la recarga sin realizar otra).",
-                          "priority": 66
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 3957,
-                        "style": 14,
-                        "text": "Clientes que solicitaron el bloqueo de servicios a través de PROFECO o en un Centro de Atención a Clientes Telcel: este servicio no esta disponible.",
-                        "priority": 70
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "id": 3958,
-                    "style": 88,
-                    "text": "Como Funciona",
-                    "priority": 100
-                  },
-                  "data": [
-                    {
-                      "step": {
-                        "id": 3979,
-                        "style": 159,
-                        "text": "1.- Invitación",
-                        "priority": 105
-                      },
-                      "image": [
-                        {
-                          "id": 3980,
-                          "text": "http://c.n2c.mx/5077ec0f-672a-402d-9b51-d16f1a2e9c5e/P-42_1.png",
-                          "priority": 106
-                        }
-                      ],
-                      "content": [
-                        {
-                          "id": 3981,
-                          "style": 90,
-                          "text": "Debes cumplir con los Requisitos (descritos anteriormente).",
-                          "priority": 107
-                        },
-                        {
-                          "id": 3982,
-                          "style": 90,
-                          "text": "Cuando el Saldo es igual o menor a $5, recibirás un mensaje invitándote a solicitar un Adelanto de Saldo.",
-                          "priority": 108
-                        }
-                      ]
-                    },
-                    {
-                      "step": {
-                        "id": 3983,
-                        "style": 159,
-                        "text": "2.- Adelanto de saldo",
-                        "priority": 120
-                      },
-                      "image": [
-                        {
-                          "id": 3984,
-                          "text": "http://c.n2c.mx/0a6c1ef7-e391-4b7e-b40a-bb518e939dde/P-42_2.png",
-                          "priority": 121
-                        }
-                      ],
-                      "content": [
-                        {
-                          "id": 3985,
-                          "style": 90,
-                          "text": "Acepta la invitación enviando un SMS sin costo con la palabra “SI” a la marcación 2323.",
-                          "priority": 122
-                        },
-                        {
-                          "id": 3986,
-                          "style": 90,
-                          "text": "Inmediatamente recibirás el Saldo y una notificación indicando el monto adelantado. ",
-                          "priority": 123
-                        }
-                      ]
-                    },
-                    {
-                      "step": {
-                        "id": 3987,
-                        "style": 159,
-                        "text": "3.- Recuperación",
-                        "priority": 140
-                      },
-                      "image": [
-                        {
-                          "id": 3988,
-                          "text": "http://c.n2c.mx/f682a937-2538-4b54-8b3e-6adcb587bf2e/P-42_3.png",
-                          "priority": 141
-                        }
-                      ],
-                      "content": [
-                        {
-                          "id": 3989,
-                          "style": 90,
-                          "text": "En tu próxima Recarga se descontarán: el Saldo Adelantado + el Costo por servicio**.",
-                          "priority": 142
-                        },
-                        {
-                          "id": 3990,
-                          "style": 90,
-                          "text": "Recibirás un SMS para comunicarte del débito.",
-                          "priority": 143
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "id": 3991,
-                    "style": 84,
-                    "text": "Consideraciones",
-                    "priority": 150
-                  },
-                  "titleContent": [
-                    {
-                      "title": {
-                        "id": 3992,
-                        "style": 14,
-                        "text": "Consideraciones",
-                        "priority": 155
-                      },
-                      "content": [
-                        {
-                          "id": 3993,
-                          "style": 90,
-                          "text": "El SMS a la marcación 2323 es sin costo.",
-                          "priority": 156
-                        },
-                        {
-                          "id": 3994,
-                          "style": 90,
-                          "text": "Solo se puede solicitar un Adelanta Saldo a la vez, hasta cubrir el Saldo Adelantado anterior + el Costo por servicio.",
-                          "priority": 157
-                        },
-                        {
-                          "id": 3995,
-                          "style": 90,
-                          "text": "El Saldo Adelantado tiene vigencia de 7 días. Si cuentas con Saldo con mayor o menor vigencia, los Saldos toman la mayor vigencia.",
-                          "priority": 158
-                        },
-                        {
-                          "id": 3996,
-                          "style": 90,
-                          "text": "Solo aplica en México, no aplica el beneficio \"Sin Frontera\".",
-                          "priority": 159
-                        },
-                        {
-                          "id": 3997,
-                          "style": 90,
-                          "text": "Se puede solicitar el Adelanta Saldo aun cuando su saldo sea mayor a $5, si cumple con los requisitos.",
-                          "priority": 160
-                        },
-                        {
-                          "id": 3998,
-                          "style": 90,
-                          "text": "Baja el servicio: debe acudir a un Centro de Atención a Clientes Telcel. o enviar la palabra “BAJA” a la marcación 2323.",
-                          "priority": 161
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "template": 21,
-          "style": 55
-        },
-        {
-          "id": 139,
-          "content": "Adelanta Megas",
-          "priority": 5,
-          "dataThird": {
-            "header": {
-              "subsection": {
-                "id": 139,
-                "style": 54,
-                "text": "Adelanta Megas"
-              }
-            },
-            "body": {
-              "bodyIntern": [
-                {
-                  "name": {
-                    "id": 4266,
-                    "style": 81,
-                    "text": "Adelanta Megas",
-                    "priority": 1
-                  },
-                  "titleContent": [
-                    {
-                      "title": {
-                        "id": 4300,
-                        "style": 14,
-                        "text": "Cuando tu Amigo se quede sin Saldo y sin Megas, Telcel te presta con Adelanta Megas.",
-                        "priority": 5
-                      },
-                      "content": [
-                        {
-                          "id": 4301,
-                          "style": 86,
-                          "text": "Hata 30MB por adelantado.",
-                          "priority": 6
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 4302,
-                        "style": 14,
-                        "text": "Antiguedad de la línea (Mayor a 6 meses)",
-                        "priority": 10
-                      },
-                      "content": [
-                        {
-                          "id": 4303,
-                          "style": 86,
-                          "text": "*Promedio de recarga mensual: Mayor a $101",
-                          "priority": 11
-                        },
-                        {
-                          "id": 4304,
-                          "style": 86,
-                          "text": "Costo del paquete Adelantado: $15",
-                          "priority": 12
-                        },
-                        {
-                          "id": 4305,
-                          "style": 86,
-                          "text": "Megas Adelantados: 30MB",
-                          "priority": 13
-                        },
-                        {
-                          "id": 4306,
-                          "style": 86,
-                          "text": "**Costo del servicio: $1",
-                          "priority": 14
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 4307,
-                        "style": 14,
-                        "text": "Antiguedad de la línea (Mayor a 6 meses)",
-                        "priority": 20
-                      },
-                      "content": [
-                        {
-                          "id": 4308,
-                          "style": 86,
-                          "text": "Promedio de recarga mensual: De $51 a $100",
-                          "priority": 21
-                        },
-                        {
-                          "id": 4309,
-                          "style": 86,
-                          "text": "Costo del paquete Adelantado: $10",
-                          "priority": 22
-                        },
-                        {
-                          "id": 4310,
-                          "style": 86,
-                          "text": "Megas Adelantados: 20MB",
-                          "priority": 23
-                        },
-                        {
-                          "id": 4311,
-                          "style": 86,
-                          "text": "**Costo del servicio: $1",
-                          "priority": 24
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 4312,
-                        "style": 14,
-                        "text": "Antiguedad de la línea (De 3 a 6 meses)",
-                        "priority": 30
-                      },
-                      "content": [
-                        {
-                          "id": 4313,
-                          "style": 86,
-                          "text": "Promedio de recarga mensual: $40 a $50",
-                          "priority": 31
-                        },
-                        {
-                          "id": 4314,
-                          "style": 86,
-                          "text": "Costo del paquete Adelantado: $5",
-                          "priority": 32
-                        },
-                        {
-                          "id": 4315,
-                          "style": 86,
-                          "text": "Megas Adelantados: 10MB",
-                          "priority": 33
-                        },
-                        {
-                          "id": 4316,
-                          "style": 86,
-                          "text": "**Costo del servicio: $1",
-                          "priority": 34
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "id": 4320,
-                    "style": 84,
-                    "text": "Requisitos",
-                    "priority": 50
-                  },
-                  "titleContent": [
-                    {
-                      "title": {
-                        "id": 4321,
-                        "style": 14,
-                        "text": "Requisitos",
-                        "priority": 55
-                      },
-                      "content": [
-                        {
-                          "id": 4322,
-                          "style": 86,
-                          "text": "Antigüedad de la línea: mínima de 3 meses. (A partir de la activación o de la primera llamada con costo.)",
-                          "priority": 56
-                        },
-                        {
-                          "id": 4323,
-                          "style": 86,
-                          "text": "Frecuencia de recargas: mínimo de 2 mensuales, durante los últimos 3 meses.",
-                          "priority": 57
-                        },
-                        {
-                          "id": 4324,
-                          "style": 86,
-                          "text": "Actividad de la línea: sin interrupción o restricción del servicio en los últimos 3 meses. (Interrupción del servicio es cuando ha pasado un tiempo mayor a la vigencia de la recarga sin realizar otra.)",
-                          "priority": 58
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 4325,
-                        "style": 14,
-                        "text": "Clientes que solicitaron el bloqueo de servicios a través de PROFECO o en un Centro de Atención a Clientes Telcel: este servicio no esta disponible.",
-                        "priority": 60
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "id": 4327,
-                    "style": 81,
-                    "text": "¿Como funciona?",
-                    "priority": 100
-                  },
-                  "data": [
-                    {
-                      "step": {
-                        "id": 4333,
-                        "style": 159,
-                        "text": "1.- Invitación",
-                        "priority": 102
-                      },
-                      "image": [
-                        {
-                          "id": 4334,
-                          "text": "http://c.n2c.mx/4f90e56b-a308-4896-affb-e1aff68afe39/P-43_1.png",
-                          "priority": 103
-                        }
-                      ],
-                      "content": [
-                        {
-                          "id": 4335,
-                          "style": 83,
-                          "text": "Debes cumplir con los Requisitos (descritos anteriormente).",
-                          "priority": 104
-                        },
-                        {
-                          "id": 4336,
-                          "style": 83,
-                          "text": "Cuando el Saldo o Megas sean insuficientes para navegar, serás dirigido al Portal Amigo Libre donde podrás solicitar un Adelanto de Megas.",
-                          "priority": 105
-                        }
-                      ]
-                    },
-                    {
-                      "step": {
-                        "id": 4337,
-                        "style": 159,
-                        "text": "2.- Adelanto de Megas",
-                        "priority": 110
-                      },
-                      "image": [
-                        {
-                          "id": 4338,
-                          "text": "http://c.n2c.mx/e5401717-849b-4f8e-b0ce-87764d619115/P-43_2.png",
-                          "priority": 111
-                        }
-                      ],
-                      "content": [
-                        {
-                          "id": 4339,
-                          "style": 83,
-                          "text": "Selecciona la opción de Adelanta Megas disponible (de acuerdo a los Requisitos que cubras).",
-                          "priority": 112
-                        },
-                        {
-                          "id": 4340,
-                          "style": 83,
-                          "text": "Al aceptar, se mostrará la confirmación de activación del servicio en el portal y por SMS.",
-                          "priority": 113
-                        }
-                      ]
-                    },
-                    {
-                      "step": {
-                        "id": 4341,
-                        "style": 159,
-                        "text": "3.- Recuperación",
-                        "priority": 120
-                      },
-                      "image": [
-                        {
-                          "id": 4342,
-                          "text": "http://c.n2c.mx/eb6f923f-57cd-41d1-9c11-5caf6e888c40/P-43_3.png",
-                          "priority": 121
-                        }
-                      ],
-                      "content": [
-                        {
-                          "id": 4343,
-                          "style": 83,
-                          "text": "En tu próxima Recarga se descontarán: los Megas Adelantados + el Costo por servicio**.",
-                          "priority": 122
-                        },
-                        {
-                          "id": 4344,
-                          "style": 83,
-                          "text": "Recibirás un SMS para comunicarte del débito.",
-                          "priority": 123
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "id": 4345,
-                    "style": 84,
-                    "text": "Consideraciones",
-                    "priority": 150
-                  },
-                  "titleContent": [
-                    {
-                      "title": {
-                        "id": 4346,
-                        "style": 14,
-                        "text": "Consideraciones",
-                        "priority": 151
-                      },
-                      "content": [
-                        {
-                          "id": 4347,
-                          "style": 83,
-                          "text": "Solo se pueden adquirir a través del Portal Amigo Libre",
-                          "priority": 152
-                        },
-                        {
-                          "id": 4348,
-                          "style": 83,
-                          "text": "Los Megas Adelantados tienen vigencia de 1 día",
-                          "priority": 153
-                        },
-                        {
-                          "id": 4349,
-                          "style": 83,
-                          "text": "Solo se puede solicitar un Adelanta Megas a la vez, hasta cubrir el Megas Adelantados anterior + el Costo por servicio.",
-                          "priority": 154
-                        },
-                        {
-                          "id": 4350,
-                          "style": 83,
-                          "text": "Solo al intentar navegar por la Red Telcel se redireccionará al Portal Amigo Libre.",
-                          "priority": 155
-                        },
-                        {
-                          "id": 4351,
-                          "style": 83,
-                          "text": "Solo aplica en México, no aplica el beneficio \"Sin Frontera\".",
-                          "priority": 156
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "template": 21,
-          "style": 54
-        },
-        {
-          "id": 140,
-          "content": "Telcel Sin Frontera",
-          "priority": 6,
-          "dataThird": {
-            "header": {
-              "subsection": {
-                "id": 140,
-                "style": 56,
-                "text": "Telcel Sin Frontera"
-              }
-            },
-            "body": {
-              "data": [
-                {
-                  "name": {
-                    "id": 1202,
-                    "style": 85,
-                    "text": "Condiciones",
-                    "priority": 1
-                  },
-                  "titleContent": [
-                    {
-                      "title": {
-                        "id": 1210,
-                        "style": 14,
-                        "text": "Condiciones:",
-                        "priority": 5
-                      },
-                      "content": [
-                        {
-                          "id": 1211,
-                          "style": 79,
-                          "text": "Contar con un Plan Tarifario Telcel contratado, activo y al corriente de pago.",
-                          "priority": 6
-                        },
-                        {
-                          "id": 1212,
-                          "style": 79,
-                          "text": "Servicio compatible con TODOS los Planes Tarifarios (Abiertos, Mixtos, Consumo Controlado, Cobro por Segundo, por Llamada y Combinado).",
-                          "priority": 7
-                        },
-                        {
-                          "id": 1213,
-                          "style": 79,
-                          "text": "Debe residir en México",
-                          "priority": 8
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 1214,
-                        "style": 14,
-                        "text": "Números GRATIS de México:",
-                        "priority": 10
-                      },
-                      "content": [
-                        {
-                          "id": 1215,
-                          "style": 79,
-                          "text": "llama o mensajea ILIMITADAMENTE, en México, E.U.A.  y Canadá.",
-                          "priority": 11
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 1216,
-                        "style": 14,
-                        "text": "Las llamadas son por bloques de 5 minutos sin costo, a partir del minuto 5:01 se cobra la tarifa vigente por minuto adicional de México establecida para el plan estando en México, E.U.A.  y Canadá.",
-                        "priority": 15
-                      }
-                    },
-                    {
-                      "title": {
-                        "id": 1217,
-                        "style": 14,
-                        "text": "Velocidad de navegación:",
-                        "priority": 20
-                      },
-                      "content": [
-                        {
-                          "id": 1218,
-                          "style": 79,
-                          "text": "Dependerá de la capacidad de red disponible del operador que brinde el servicio estando en E.U.A. y Canadá. (Operador con el que Telcel cuente con convenio de Roaming Internacional).",
-                          "priority": 21
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 1219,
-                        "style": 14,
-                        "text": "Datos (MB), Minutos y Mensajes (SMS) de promoción:",
-                        "priority": 25
-                      },
-                      "content": [
-                        {
-                          "id": 1220,
-                          "style": 79,
-                          "text": "Son para usarse únicamente en México, los datos que incluye el plan (sin promoción) pueden usarse en E.U.A. y Canadá",
-                          "priority": 26
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 1221,
-                        "style": 14,
-                        "text": "Planes con Datos ilimitados:",
-                        "priority": 30
-                      },
-                      "content": [
-                        {
-                          "id": 1222,
-                          "style": 79,
-                          "text": "Estando en E.U.A. y Canadá al llegar al PUJ (Políticade Uso Justo) el cliente continuará navegando de acuerdo a la tarifa adicional aplicable a México.",
-                          "priority": 31
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 1223,
-                        "style": 14,
-                        "text": "Navegación en Redes Sociales:",
-                        "priority": 35
-                      },
-                      "content": [
-                        {
-                          "id": 1224,
-                          "style": 79,
-                          "text": "En E.U.A. y Canadá WhatsApp, Facebook y Twitter se debitarán: primero de los Datos incluidos en el Plan, y al consumirse, navega donde sea con la misma tarifa de México.",
-                          "priority": 36
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": {
-                    "id": 1225,
-                    "style": 89,
-                    "text": "Consideraciones",
-                    "priority": 50
-                  },
-                  "titleContent": [
-                    {
-                      "title": {
-                        "id": 1226,
-                        "style": 14,
-                        "text": "Consideraciones:",
-                        "priority": 55
-                      }
-                    },
-                    {
-                      "title": {
-                        "id": 1227,
-                        "style": 14,
-                        "text": "Cobertura de E.U.A. y Canadá:",
-                        "priority": 60
-                      },
-                      "content": [
-                        {
-                          "id": 1228,
-                          "style": 91,
-                          "text": "Estados Unidos de América incluye Alaska, Hawaii, Islas Vírgenes Americanas y Puerto Rico (no incluye cobertura marítima).",
-                          "priority": 61
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 1229,
-                        "style": 14,
-                        "text": "Cargo mensual:",
-                        "priority": 65
-                      },
-                      "content": [
-                        {
-                          "id": 1230,
-                          "style": 91,
-                          "text": "se reflejará en su a factura por $50.00 hasta que el cliente elija cancelarlo.",
-                          "priority": 66
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 1231,
-                        "style": 14,
-                        "text": "Contrata y cancela:",
-                        "priority": 70
-                      },
-                      "content": [
-                        {
-                          "id": 1232,
-                          "style": 91,
-                          "text": "Marcando sin costo desde su Telcel al *111, *500 o al número +52 552581 3300 desde el extranjero. ",
-                          "priority": 71
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 1233,
-                        "style": 14,
-                        "text": "Equipo terminal:",
-                        "priority": 75
-                      },
-                      "content": [
-                        {
-                          "id": 1234,
-                          "style": 91,
-                          "text": "Debe estar registrado en la Red de Telcel.",
-                          "priority": 76
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 1235,
-                        "style": 14,
-                        "text": "Buzón de Voz, consulta estando en E.U.A. y Canadá, se debita:",
-                        "priority": 80
-                      },
-                      "content": [
-                        {
-                          "id": 1236,
-                          "style": 91,
-                          "text": "De los minutos incluidos en el Plan. Una vez agotados, se cobrará la tarifa por minuto adicional aplicable a México.",
-                          "priority": 81
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "template": 2,
-          "style": 56
-        },
-        {
-          "id": 141,
-          "content": "Telcel Sin Límite",
-          "priority": 7,
-          "dataThird": {
-            "header": {
-              "subsection": {
-                "id": 141,
-                "style": 53,
-                "text": "Telcel Sin Límite"
-              }
-            },
-            "body": {
-              "data": [
-                {
-                  "image": [
-                    {
-                      "id": 1389,
-                      "text": "http://c.n2c.mx/dd89c7a9-58cc-4e14-a0f9-4d42398907d9/P-45-1.png",
-                      "priority": 1
-                    }
-                  ],
-                  "titleContent": [
-                    {
-                      "title": {
-                        "id": 1390,
-                        "style": 14,
-                        "text": "Consideraciones",
-                        "priority": 5
-                      },
-                      "content": [
-                        {
-                          "id": 1391,
-                          "style": 86,
-                          "text": "Disponible para todos los Planes versión abierta (no disponible en versiones Consumo Controlado).",
-                          "priority": 6
-                        },
-                        {
-                          "id": 1392,
-                          "style": 86,
-                          "text": "Aplican solo estando dentro de México, a cualquier operador móvil o fijo de México.",
-                          "priority": 7
-                        },
-                        {
-                          "id": 1393,
-                          "style": 86,
-                          "text": "A partir de su contratación, se hará el cargo mensual a factura por $50.00 hasta que el cliente elija cancelarlo.",
-                          "priority": 8
-                        }
-                      ]
-                    },
-                    {
-                      "title": {
-                        "id": 1394,
-                        "style": 14,
-                        "text": "Orden de Consumo:",
-                        "priority": 10
-                      },
-                      "content": [
-                        {
-                          "id": 1395,
-                          "style": 86,
-                          "text": "Primero los Minutos y SMS incluidos en su Plan, luego los de Paquetes Adicionales contratados, y finalmente accederá al beneficio de “Telcel Sin Límite”.",
-                          "priority": 11
-                        },
-                        {
-                          "id": 1396,
-                          "style": 86,
-                          "text": "El beneficio aplica para minutos excedentes en llamadas a Números GRATIS.",
-                          "priority": 12
-                        },
-                        {
-                          "id": 1397,
-                          "style": 86,
-                          "text": "No incluye llamadas y SMS hacia marcaciones especiales (ej. marcación 01-900, etc) ni de forma masiva.",
-                          "priority": 13
-                        },
-                        {
-                          "id": 1398,
-                          "style": 86,
-                          "text": "No aplica para consumo en Roaming Internacional, aun cuando el cliente cuente con Telcel Sin Frontera, Telcel Pro Sin Frontera o Telcel Max.",
-                          "priority": 14
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "template": 6,
-          "style": 53
+          ]
         }
-      ],
-      "style": 25
+      },
+      "template": 2,
+      "style": 54
     },
+    {
+      "id": 138,
+      "content": "Adelanta Saldo",
+      "priority": 7,
+      "dataThird": {
+        "header": {
+          "subsection": {
+            "id": 138,
+            "style": 55,
+            "text": "Adelanta Saldo"
+          }
+        },
+        "body": {
+          "bodyIntern": [
+            {
+              "name": {
+                "id": 3935,
+                "style": 88,
+                "text": "Adelanta Saldo",
+                "priority": 1
+              },
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 3936,
+                    "style": 14,
+                    "text": "Cuando tu Amigo se quede sin Saldo, Telcel te presta con Adelanta Saldo:",
+                    "priority": 5
+                  },
+                  "content": [
+                    {
+                      "id": 3937,
+                      "style": 86,
+                      "text": "Hata $15 de Saldo Amigo por adelantado. ",
+                      "priority": 6
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 3938,
+                    "style": 14,
+                    "text": "Antiguedad de la línea (Mayor a 6 meses)",
+                    "priority": 10
+                  },
+                  "content": [
+                    {
+                      "id": 3939,
+                      "style": 86,
+                      "text": "Promedio de recarga mensual: Mayor a $101",
+                      "priority": 11
+                    },
+                    {
+                      "id": 3940,
+                      "style": 86,
+                      "text": "Monto adelantado por Telcel: $15",
+                      "priority": 12
+                    },
+                    {
+                      "id": 3941,
+                      "style": 86,
+                      "text": "Costo por servicio: $1",
+                      "priority": 13
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 3942,
+                    "style": 14,
+                    "text": "Antiguedad de la línea (Mayor a 6 meses)",
+                    "priority": 15
+                  },
+                  "content": [
+                    {
+                      "id": 3943,
+                      "style": 86,
+                      "text": "Promedio de recarga mensual: De $51 a $100",
+                      "priority": 16
+                    },
+                    {
+                      "id": 3944,
+                      "style": 86,
+                      "text": "Monto adelantado por Telcel: $10",
+                      "priority": 17
+                    },
+                    {
+                      "id": 3945,
+                      "style": 86,
+                      "text": "Costo por servicio: $1",
+                      "priority": 18
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 3946,
+                    "style": 14,
+                    "text": "Antiguedad de la línea (De 3 a 6 meses)",
+                    "priority": 20
+                  },
+                  "content": [
+                    {
+                      "id": 3947,
+                      "style": 86,
+                      "text": "Promedio de recarga mensual: $40 a $50",
+                      "priority": 21
+                    },
+                    {
+                      "id": 3948,
+                      "style": 86,
+                      "text": "Monto adelantado por Telcel: $5",
+                      "priority": 22
+                    },
+                    {
+                      "id": 3949,
+                      "style": 86,
+                      "text": "Costo por servicio: $1",
+                      "priority": 23
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": {
+                "id": 3950,
+                "style": 84,
+                "text": "Requisitos",
+                "priority": 50
+              },
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 3951,
+                    "style": 14,
+                    "text": "Antigüedad de la línea: mínima de 6 meses.",
+                    "priority": 55
+                  },
+                  "content": [
+                    {
+                      "id": 3952,
+                      "style": 86,
+                      "text": "(A partir de la activación o de la primera llamada con costo).",
+                      "priority": 56
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 3953,
+                    "style": 14,
+                    "text": "Frecuencia de recargas:",
+                    "priority": 60
+                  },
+                  "content": [
+                    {
+                      "id": 3954,
+                      "style": 86,
+                      "text": "mínimo de 2 mensuales, durante los últimos 3 meses.*",
+                      "priority": 61
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 3955,
+                    "style": 14,
+                    "text": "Actividad de la línea:",
+                    "priority": 65
+                  },
+                  "content": [
+                    {
+                      "id": 3956,
+                      "style": 86,
+                      "text": "sin interrupción o restricción del servicio en los últimos 3 meses. (Interrupción del servicio es cuando ha pasado un tiempo mayor a la vigencia de la recarga sin realizar otra).",
+                      "priority": 66
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 3957,
+                    "style": 14,
+                    "text": "Clientes que solicitaron el bloqueo de servicios a través de PROFECO o en un Centro de Atención a Clientes Telcel: este servicio no esta disponible.",
+                    "priority": 70
+                  }
+                }
+              ]
+            },
+            {
+              "name": {
+                "id": 3958,
+                "style": 88,
+                "text": "Como Funciona",
+                "priority": 100
+              },
+              "data": [
+                {
+                  "step": {
+                    "id": 3979,
+                    "style": 159,
+                    "text": "1.- Invitación",
+                    "priority": 105
+                  },
+                  "image": [
+                    {
+                      "id": 3980,
+                      "text": "http://c.n2c.mx/5077ec0f-672a-402d-9b51-d16f1a2e9c5e/P-42_1.png",
+                      "priority": 106
+                    }
+                  ],
+                  "content": [
+                    {
+                      "id": 3981,
+                      "style": 90,
+                      "text": "Debes cumplir con los Requisitos (descritos anteriormente).",
+                      "priority": 107
+                    },
+                    {
+                      "id": 3982,
+                      "style": 90,
+                      "text": "Cuando el Saldo es igual o menor a $5, recibirás un mensaje invitándote a solicitar un Adelanto de Saldo.",
+                      "priority": 108
+                    }
+                  ]
+                },
+                {
+                  "step": {
+                    "id": 3983,
+                    "style": 159,
+                    "text": "2.- Adelanto de saldo",
+                    "priority": 120
+                  },
+                  "image": [
+                    {
+                      "id": 3984,
+                      "text": "http://c.n2c.mx/0a6c1ef7-e391-4b7e-b40a-bb518e939dde/P-42_2.png",
+                      "priority": 121
+                    }
+                  ],
+                  "content": [
+                    {
+                      "id": 3985,
+                      "style": 90,
+                      "text": "Acepta la invitación enviando un SMS sin costo con la palabra “SI” a la marcación 2323.",
+                      "priority": 122
+                    },
+                    {
+                      "id": 3986,
+                      "style": 90,
+                      "text": "Inmediatamente recibirás el Saldo y una notificación indicando el monto adelantado. ",
+                      "priority": 123
+                    }
+                  ]
+                },
+                {
+                  "step": {
+                    "id": 3987,
+                    "style": 159,
+                    "text": "3.- Recuperación",
+                    "priority": 140
+                  },
+                  "image": [
+                    {
+                      "id": 3988,
+                      "text": "http://c.n2c.mx/f682a937-2538-4b54-8b3e-6adcb587bf2e/P-42_3.png",
+                      "priority": 141
+                    }
+                  ],
+                  "content": [
+                    {
+                      "id": 3989,
+                      "style": 90,
+                      "text": "En tu próxima Recarga se descontarán: el Saldo Adelantado + el Costo por servicio**.",
+                      "priority": 142
+                    },
+                    {
+                      "id": 3990,
+                      "style": 90,
+                      "text": "Recibirás un SMS para comunicarte del débito.",
+                      "priority": 143
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": {
+                "id": 3991,
+                "style": 84,
+                "text": "Consideraciones",
+                "priority": 150
+              },
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 3992,
+                    "style": 14,
+                    "text": "Consideraciones",
+                    "priority": 155
+                  },
+                  "content": [
+                    {
+                      "id": 3993,
+                      "style": 90,
+                      "text": "El SMS a la marcación 2323 es sin costo.",
+                      "priority": 156
+                    },
+                    {
+                      "id": 3994,
+                      "style": 90,
+                      "text": "Solo se puede solicitar un Adelanta Saldo a la vez, hasta cubrir el Saldo Adelantado anterior + el Costo por servicio.",
+                      "priority": 157
+                    },
+                    {
+                      "id": 3995,
+                      "style": 90,
+                      "text": "El Saldo Adelantado tiene vigencia de 7 días. Si cuentas con Saldo con mayor o menor vigencia, los Saldos toman la mayor vigencia.",
+                      "priority": 158
+                    },
+                    {
+                      "id": 3996,
+                      "style": 90,
+                      "text": "Solo aplica en México, no aplica el beneficio \"Sin Frontera\".",
+                      "priority": 159
+                    },
+                    {
+                      "id": 3997,
+                      "style": 90,
+                      "text": "Se puede solicitar el Adelanta Saldo aun cuando su saldo sea mayor a $5, si cumple con los requisitos.",
+                      "priority": 160
+                    },
+                    {
+                      "id": 3998,
+                      "style": 90,
+                      "text": "Baja el servicio: debe acudir a un Centro de Atención a Clientes Telcel. o enviar la palabra “BAJA” a la marcación 2323.",
+                      "priority": 161
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "template": 21,
+      "style": 55
+    },
+    {
+      "id": 139,
+      "content": "Adelanta Megas",
+      "priority": 8,
+      "dataThird": {
+        "header": {
+          "subsection": {
+            "id": 139,
+            "style": 54,
+            "text": "Adelanta Megas"
+          }
+        },
+        "body": {
+          "bodyIntern": [
+            {
+              "name": {
+                "id": 4266,
+                "style": 81,
+                "text": "Adelanta Megas",
+                "priority": 1
+              },
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 4300,
+                    "style": 14,
+                    "text": "Cuando tu Amigo se quede sin Saldo y sin Megas, Telcel te presta con Adelanta Megas.",
+                    "priority": 5
+                  },
+                  "content": [
+                    {
+                      "id": 4301,
+                      "style": 86,
+                      "text": "Hata 30MB por adelantado.",
+                      "priority": 6
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 4302,
+                    "style": 14,
+                    "text": "Antiguedad de la línea (Mayor a 6 meses)",
+                    "priority": 10
+                  },
+                  "content": [
+                    {
+                      "id": 4303,
+                      "style": 86,
+                      "text": "*Promedio de recarga mensual: Mayor a $101",
+                      "priority": 11
+                    },
+                    {
+                      "id": 4304,
+                      "style": 86,
+                      "text": "Costo del paquete Adelantado: $15",
+                      "priority": 12
+                    },
+                    {
+                      "id": 4305,
+                      "style": 86,
+                      "text": "Megas Adelantados: 30MB",
+                      "priority": 13
+                    },
+                    {
+                      "id": 4306,
+                      "style": 86,
+                      "text": "**Costo del servicio: $1",
+                      "priority": 14
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 4307,
+                    "style": 14,
+                    "text": "Antiguedad de la línea (Mayor a 6 meses)",
+                    "priority": 20
+                  },
+                  "content": [
+                    {
+                      "id": 4308,
+                      "style": 86,
+                      "text": "Promedio de recarga mensual: De $51 a $100",
+                      "priority": 21
+                    },
+                    {
+                      "id": 4309,
+                      "style": 86,
+                      "text": "Costo del paquete Adelantado: $10",
+                      "priority": 22
+                    },
+                    {
+                      "id": 4310,
+                      "style": 86,
+                      "text": "Megas Adelantados: 20MB",
+                      "priority": 23
+                    },
+                    {
+                      "id": 4311,
+                      "style": 86,
+                      "text": "**Costo del servicio: $1",
+                      "priority": 24
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 4312,
+                    "style": 14,
+                    "text": "Antiguedad de la línea (De 3 a 6 meses)",
+                    "priority": 30
+                  },
+                  "content": [
+                    {
+                      "id": 4313,
+                      "style": 86,
+                      "text": "Promedio de recarga mensual: $40 a $50",
+                      "priority": 31
+                    },
+                    {
+                      "id": 4314,
+                      "style": 86,
+                      "text": "Costo del paquete Adelantado: $5",
+                      "priority": 32
+                    },
+                    {
+                      "id": 4315,
+                      "style": 86,
+                      "text": "Megas Adelantados: 10MB",
+                      "priority": 33
+                    },
+                    {
+                      "id": 4316,
+                      "style": 86,
+                      "text": "**Costo del servicio: $1",
+                      "priority": 34
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": {
+                "id": 4320,
+                "style": 84,
+                "text": "Requisitos",
+                "priority": 50
+              },
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 4321,
+                    "style": 14,
+                    "text": "Requisitos",
+                    "priority": 55
+                  },
+                  "content": [
+                    {
+                      "id": 4322,
+                      "style": 86,
+                      "text": "Antigüedad de la línea: mínima de 3 meses. (A partir de la activación o de la primera llamada con costo.)",
+                      "priority": 56
+                    },
+                    {
+                      "id": 4323,
+                      "style": 86,
+                      "text": "Frecuencia de recargas: mínimo de 2 mensuales, durante los últimos 3 meses.",
+                      "priority": 57
+                    },
+                    {
+                      "id": 4324,
+                      "style": 86,
+                      "text": "Actividad de la línea: sin interrupción o restricción del servicio en los últimos 3 meses. (Interrupción del servicio es cuando ha pasado un tiempo mayor a la vigencia de la recarga sin realizar otra.)",
+                      "priority": 58
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 4325,
+                    "style": 14,
+                    "text": "Clientes que solicitaron el bloqueo de servicios a través de PROFECO o en un Centro de Atención a Clientes Telcel: este servicio no esta disponible.",
+                    "priority": 60
+                  }
+                }
+              ]
+            },
+            {
+              "name": {
+                "id": 4327,
+                "style": 81,
+                "text": "¿Como funciona?",
+                "priority": 100
+              },
+              "data": [
+                {
+                  "step": {
+                    "id": 4333,
+                    "style": 159,
+                    "text": "1.- Invitación",
+                    "priority": 102
+                  },
+                  "image": [
+                    {
+                      "id": 4334,
+                      "text": "http://c.n2c.mx/4f90e56b-a308-4896-affb-e1aff68afe39/P-43_1.png",
+                      "priority": 103
+                    }
+                  ],
+                  "content": [
+                    {
+                      "id": 4335,
+                      "style": 83,
+                      "text": "Debes cumplir con los Requisitos (descritos anteriormente).",
+                      "priority": 104
+                    },
+                    {
+                      "id": 4336,
+                      "style": 83,
+                      "text": "Cuando el Saldo o Megas sean insuficientes para navegar, serás dirigido al Portal Amigo Libre donde podrás solicitar un Adelanto de Megas.",
+                      "priority": 105
+                    }
+                  ]
+                },
+                {
+                  "step": {
+                    "id": 4337,
+                    "style": 159,
+                    "text": "2.- Adelanto de Megas",
+                    "priority": 110
+                  },
+                  "image": [
+                    {
+                      "id": 4338,
+                      "text": "http://c.n2c.mx/e5401717-849b-4f8e-b0ce-87764d619115/P-43_2.png",
+                      "priority": 111
+                    }
+                  ],
+                  "content": [
+                    {
+                      "id": 4339,
+                      "style": 83,
+                      "text": "Selecciona la opción de Adelanta Megas disponible (de acuerdo a los Requisitos que cubras).",
+                      "priority": 112
+                    },
+                    {
+                      "id": 4340,
+                      "style": 83,
+                      "text": "Al aceptar, se mostrará la confirmación de activación del servicio en el portal y por SMS.",
+                      "priority": 113
+                    }
+                  ]
+                },
+                {
+                  "step": {
+                    "id": 4341,
+                    "style": 159,
+                    "text": "3.- Recuperación",
+                    "priority": 120
+                  },
+                  "image": [
+                    {
+                      "id": 4342,
+                      "text": "http://c.n2c.mx/eb6f923f-57cd-41d1-9c11-5caf6e888c40/P-43_3.png",
+                      "priority": 121
+                    }
+                  ],
+                  "content": [
+                    {
+                      "id": 4343,
+                      "style": 83,
+                      "text": "En tu próxima Recarga se descontarán: los Megas Adelantados + el Costo por servicio**.",
+                      "priority": 122
+                    },
+                    {
+                      "id": 4344,
+                      "style": 83,
+                      "text": "Recibirás un SMS para comunicarte del débito.",
+                      "priority": 123
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": {
+                "id": 4345,
+                "style": 84,
+                "text": "Consideraciones",
+                "priority": 150
+              },
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 4346,
+                    "style": 14,
+                    "text": "Consideraciones",
+                    "priority": 151
+                  },
+                  "content": [
+                    {
+                      "id": 4347,
+                      "style": 83,
+                      "text": "Solo se pueden adquirir a través del Portal Amigo Libre",
+                      "priority": 152
+                    },
+                    {
+                      "id": 4348,
+                      "style": 83,
+                      "text": "Los Megas Adelantados tienen vigencia de 1 día",
+                      "priority": 153
+                    },
+                    {
+                      "id": 4349,
+                      "style": 83,
+                      "text": "Solo se puede solicitar un Adelanta Megas a la vez, hasta cubrir el Megas Adelantados anterior + el Costo por servicio.",
+                      "priority": 154
+                    },
+                    {
+                      "id": 4350,
+                      "style": 83,
+                      "text": "Solo al intentar navegar por la Red Telcel se redireccionará al Portal Amigo Libre.",
+                      "priority": 155
+                    },
+                    {
+                      "id": 4351,
+                      "style": 83,
+                      "text": "Solo aplica en México, no aplica el beneficio \"Sin Frontera\".",
+                      "priority": 156
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "template": 21,
+      "style": 54
+    },
+    {
+      "id": 140,
+      "content": "Telcel Sin Frontera",
+      "priority": 9,
+      "dataThird": {
+        "header": {
+          "subsection": {
+            "id": 140,
+            "style": 56,
+            "text": "Telcel Sin Frontera"
+          }
+        },
+        "body": {
+          "data": [
+            {
+              "name": {
+                "id": 1202,
+                "style": 85,
+                "text": "Condiciones",
+                "priority": 1
+              },
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 1210,
+                    "style": 14,
+                    "text": "Condiciones:",
+                    "priority": 5
+                  },
+                  "content": [
+                    {
+                      "id": 1211,
+                      "style": 79,
+                      "text": "Contar con un Plan Tarifario Telcel contratado, activo y al corriente de pago.",
+                      "priority": 6
+                    },
+                    {
+                      "id": 1212,
+                      "style": 79,
+                      "text": "Servicio compatible con TODOS los Planes Tarifarios (Abiertos, Mixtos, Consumo Controlado, Cobro por Segundo, por Llamada y Combinado).",
+                      "priority": 7
+                    },
+                    {
+                      "id": 1213,
+                      "style": 79,
+                      "text": "Debe residir en México",
+                      "priority": 8
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 1214,
+                    "style": 14,
+                    "text": "Números GRATIS de México:",
+                    "priority": 10
+                  },
+                  "content": [
+                    {
+                      "id": 1215,
+                      "style": 79,
+                      "text": "llama o mensajea ILIMITADAMENTE, en México, E.U.A.  y Canadá.",
+                      "priority": 11
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 1216,
+                    "style": 14,
+                    "text": "Las llamadas son por bloques de 5 minutos sin costo, a partir del minuto 5:01 se cobra la tarifa vigente por minuto adicional de México establecida para el plan estando en México, E.U.A.  y Canadá.",
+                    "priority": 15
+                  }
+                },
+                {
+                  "title": {
+                    "id": 1217,
+                    "style": 14,
+                    "text": "Velocidad de navegación:",
+                    "priority": 20
+                  },
+                  "content": [
+                    {
+                      "id": 1218,
+                      "style": 79,
+                      "text": "Dependerá de la capacidad de red disponible del operador que brinde el servicio estando en E.U.A. y Canadá. (Operador con el que Telcel cuente con convenio de Roaming Internacional).",
+                      "priority": 21
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 1219,
+                    "style": 14,
+                    "text": "Datos (MB), Minutos y Mensajes (SMS) de promoción:",
+                    "priority": 25
+                  },
+                  "content": [
+                    {
+                      "id": 1220,
+                      "style": 79,
+                      "text": "Son para usarse únicamente en México, los datos que incluye el plan (sin promoción) pueden usarse en E.U.A. y Canadá",
+                      "priority": 26
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 1221,
+                    "style": 14,
+                    "text": "Planes con Datos ilimitados:",
+                    "priority": 30
+                  },
+                  "content": [
+                    {
+                      "id": 1222,
+                      "style": 79,
+                      "text": "Estando en E.U.A. y Canadá al llegar al PUJ (Políticade Uso Justo) el cliente continuará navegando de acuerdo a la tarifa adicional aplicable a México.",
+                      "priority": 31
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 1223,
+                    "style": 14,
+                    "text": "Navegación en Redes Sociales:",
+                    "priority": 35
+                  },
+                  "content": [
+                    {
+                      "id": 1224,
+                      "style": 79,
+                      "text": "En E.U.A. y Canadá WhatsApp, Facebook y Twitter se debitarán: primero de los Datos incluidos en el Plan, y al consumirse, navega donde sea con la misma tarifa de México.",
+                      "priority": 36
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": {
+                "id": 1225,
+                "style": 89,
+                "text": "Consideraciones",
+                "priority": 50
+              },
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 1226,
+                    "style": 14,
+                    "text": "Consideraciones:",
+                    "priority": 55
+                  }
+                },
+                {
+                  "title": {
+                    "id": 1227,
+                    "style": 14,
+                    "text": "Cobertura de E.U.A. y Canadá:",
+                    "priority": 60
+                  },
+                  "content": [
+                    {
+                      "id": 1228,
+                      "style": 91,
+                      "text": "Estados Unidos de América incluye Alaska, Hawaii, Islas Vírgenes Americanas y Puerto Rico (no incluye cobertura marítima).",
+                      "priority": 61
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 1229,
+                    "style": 14,
+                    "text": "Cargo mensual:",
+                    "priority": 65
+                  },
+                  "content": [
+                    {
+                      "id": 1230,
+                      "style": 91,
+                      "text": "se reflejará en su a factura por $50.00 hasta que el cliente elija cancelarlo.",
+                      "priority": 66
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 1231,
+                    "style": 14,
+                    "text": "Contrata y cancela:",
+                    "priority": 70
+                  },
+                  "content": [
+                    {
+                      "id": 1232,
+                      "style": 91,
+                      "text": "Marcando sin costo desde su Telcel al *111, *500 o al número +52 552581 3300 desde el extranjero. ",
+                      "priority": 71
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 1233,
+                    "style": 14,
+                    "text": "Equipo terminal:",
+                    "priority": 75
+                  },
+                  "content": [
+                    {
+                      "id": 1234,
+                      "style": 91,
+                      "text": "Debe estar registrado en la Red de Telcel.",
+                      "priority": 76
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 1235,
+                    "style": 14,
+                    "text": "Buzón de Voz, consulta estando en E.U.A. y Canadá, se debita:",
+                    "priority": 80
+                  },
+                  "content": [
+                    {
+                      "id": 1236,
+                      "style": 91,
+                      "text": "De los minutos incluidos en el Plan. Una vez agotados, se cobrará la tarifa por minuto adicional aplicable a México.",
+                      "priority": 81
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "template": 2,
+      "style": 56
+    },
+    {
+      "id": 141,
+      "content": "Telcel Sin Límite",
+      "priority": 10,
+      "dataThird": {
+        "header": {
+          "subsection": {
+            "id": 141,
+            "style": 53,
+            "text": "Telcel Sin Límite"
+          }
+        },
+        "body": {
+          "data": [
+            {
+              "image": [
+                {
+                  "id": 1389,
+                  "text": "http://c.n2c.mx/dd89c7a9-58cc-4e14-a0f9-4d42398907d9/P-45-1.png",
+                  "priority": 1
+                }
+              ],
+              "titleContent": [
+                {
+                  "title": {
+                    "id": 1390,
+                    "style": 14,
+                    "text": "Consideraciones",
+                    "priority": 5
+                  },
+                  "content": [
+                    {
+                      "id": 1391,
+                      "style": 86,
+                      "text": "Disponible para todos los Planes versión abierta (no disponible en versiones Consumo Controlado).",
+                      "priority": 6
+                    },
+                    {
+                      "id": 1392,
+                      "style": 86,
+                      "text": "Aplican solo estando dentro de México, a cualquier operador móvil o fijo de México.",
+                      "priority": 7
+                    },
+                    {
+                      "id": 1393,
+                      "style": 86,
+                      "text": "A partir de su contratación, se hará el cargo mensual a factura por $50.00 hasta que el cliente elija cancelarlo.",
+                      "priority": 8
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "id": 1394,
+                    "style": 14,
+                    "text": "Orden de Consumo:",
+                    "priority": 10
+                  },
+                  "content": [
+                    {
+                      "id": 1395,
+                      "style": 86,
+                      "text": "Primero los Minutos y SMS incluidos en su Plan, luego los de Paquetes Adicionales contratados, y finalmente accederá al beneficio de “Telcel Sin Límite”.",
+                      "priority": 11
+                    },
+                    {
+                      "id": 1396,
+                      "style": 86,
+                      "text": "El beneficio aplica para minutos excedentes en llamadas a Números GRATIS.",
+                      "priority": 12
+                    },
+                    {
+                      "id": 1397,
+                      "style": 86,
+                      "text": "No incluye llamadas y SMS hacia marcaciones especiales (ej. marcación 01-900, etc) ni de forma masiva.",
+                      "priority": 13
+                    },
+                    {
+                      "id": 1398,
+                      "style": 86,
+                      "text": "No aplica para consumo en Roaming Internacional, aun cuando el cliente cuente con Telcel Sin Frontera, Telcel Pro Sin Frontera o Telcel Max.",
+                      "priority": 14
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "template": 6,
+      "style": 53
+    }
+  ]
+}
+
+    ,
     {
       "id": 116,
       "content": "Servicios fijos",
