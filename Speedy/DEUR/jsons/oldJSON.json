@@ -43457,6 +43457,251 @@
       "id": 120,
       "priority": 13,
       "style": 30
+    },
+    {
+      "content": "Dispositivos Conectados",
+      "dataSecond": [
+        {
+          "content": "Internet of Things",
+          "dataThird": {
+            "body": {
+              "data": [
+                {
+                  "image": [
+                    {
+                      "id": 7106,
+                      "priority": 1,
+                      "text": "https://i.imgur.com/2oRaoEi.jpg"
+                    }
+                  ],
+                  "titleContent": [
+                    {
+                      "content": [
+                        {
+                          "id": 7108,
+                          "priority": 101,
+                          "style": 86,
+                          "text": "Brazaletes o sensores para monitorear y localizar a nuestros seres queridos. Dispositivos que midan signos vitales o el nivel de actividad fisica"
+                        }
+                      ],
+                      "title": {
+                        "id": 7107,
+                        "priority": 100,
+                        "style": 14,
+                        "text": "Bienestar y Salud"
+                      }
+                    },
+                    {
+                      "content": [
+                        {
+                          "id": 7110,
+                          "priority": 201,
+                          "style": 86,
+                          "text": "Conectado a través de aplicaciones para video vigilancia, detectar movimientos y montitorear la apertura y cierre de puertas y ventanas. Control de aparatos de casa: apagarlos con un siple toque de pantalla o instrucción de voz."
+                        }
+                      ],
+                      "title": {
+                        "id": 7109,
+                        "priority": 200,
+                        "style": 14,
+                        "text": "Casa Inteligentes"
+                      }
+                    },
+                    {
+                      "content": [
+                        {
+                          "id": 7112,
+                          "priority": 301,
+                          "style": 86,
+                          "text": "Podrán lograrse mejoras sustanciales en vigilancia, control de trándsito, semáforos, recoleccion de basura y optimización de recursos, generando ahorro y eficiencia en servicios como luz, agua y transporte"
+                        }
+                      ],
+                      "title": {
+                        "id": 7111,
+                        "priority": 300,
+                        "style": 14,
+                        "text": "Ciudades Conectadas"
+                      }
+                    },
+                    {
+                      "content": [
+                        {
+                          "id": 7114,
+                          "priority": 401,
+                          "style": 86,
+                          "text": "Permitirá contar con el historial clínico digital de los pacientes para una atencion médica más oportuna y eficiente, e incluso practicar cirugías a distancia en tiempo real"
+                        }
+                      ],
+                      "title": {
+                        "id": 7113,
+                        "priority": 400,
+                        "style": 14,
+                        "text": "e-Health"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "header": {
+              "subsection": {
+                "id": 7105,
+                "style": 3,
+                "text": "Internet of Things"
+              }
+            }
+          },
+          "id": 7105,
+          "priority": 7,
+          "style": 3,
+          "template": 6
+        },
+        {
+          "content": "Kids Watch",
+          "dataThird": {
+            "body": {
+              "data": [
+                {
+                  "image": [
+                    {
+                      "id": 7116,
+                      "priority": 1,
+                      "text": "https://i.imgur.com/2oRaoEi.jpg"
+                    }
+                  ],
+                  "titleContent": [
+                    {
+                      "content": [
+                        {
+                          "id": 7118,
+                          "priority": 101,
+                          "style": 86,
+                          "text": "Mantente comunicado con tus hijos, con mensajes de voz o llamada"
+                        },
+                        {
+                          "id": 7119,
+                          "priority": 102,
+                          "style": 86,
+                          "text": "Registra hasta 10 números de contacto"
+                        },
+                        {
+                          "id": 7120,
+                          "priority": 103,
+                          "style": 86,
+                          "text": "Recibe alertas emitidas por el Kids Watch"
+                        },
+                        {
+                          "id": 7121,
+                          "priority": 104,
+                          "style": 86,
+                          "text": "Botón SOS, realiza llamadas de emergencia a los contactos registrados"
+                        }
+                      ],
+                      "title": {
+                        "id": 7117,
+                        "priority": 100,
+                        "style": 14,
+                        "text": "Administralo desde tu Smartphone"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "header": {
+              "subsection": {
+                "id": 7115,
+                "style": 3,
+                "text": "Kids Watch"
+              }
+            }
+          },
+          "id": 7115,
+          "priority": 8,
+          "style": 3,
+          "template": 6
+        },
+        {
+          "content": "Move Track",
+          "dataThird": {
+            "body": {
+              "data": [
+                {
+                  "image": [
+                    {
+                      "id": 7123,
+                      "priority": 1,
+                      "text": "https://i.imgur.com/2oRaoEi.jpg"
+                    }
+                  ],
+                  "titleContent": [
+                    {
+                      "content": [
+                        {
+                          "id": 7125,
+                          "priority": 101,
+                          "style": 86,
+                          "text": "Seguimiento en tiempo real"
+                        },
+                        {
+                          "id": 7126,
+                          "priority": 102,
+                          "style": 86,
+                          "text": "Histórico de últimas localizaciones"
+                        },
+                        {
+                          "id": 7127,
+                          "priority": 103,
+                          "style": 86,
+                          "text": "Manejo de múltiples dispositivos"
+                        },
+                        {
+                          "id": 7128,
+                          "priority": 104,
+                          "style": 86,
+                          "text": "Notificaciones al entrar o salir de \"zonas seguras\""
+                        },
+                        {
+                          "id": 7129,
+                          "priority": 105,
+                          "style": 86,
+                          "text": "Resistente al polvo y salpicaduras"
+                        },
+                        {
+                          "id": 7130,
+                          "priority": 106,
+                          "style": 86,
+                          "text": "Ahorro de batería"
+                        }
+                      ],
+                      "title": {
+                        "id": 7124,
+                        "priority": 100,
+                        "style": 14,
+                        "text": "Administralo desde tu Smartphone"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "header": {
+              "subsection": {
+                "id": 7122,
+                "style": 3,
+                "text": "Move Track"
+              }
+            }
+          },
+          "id": 7122,
+          "priority": 9,
+          "style": 3,
+          "template": 6
+        }
+      ],
+      "id": 7104,
+      "priority": 14,
+      "style": 30
     }
   ],
   "style": [

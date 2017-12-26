@@ -21,3 +21,27 @@
 - Productos de Valor Agregado > Telcel Up
 - - 1205.pdf - 1255px x 700px
 - - ![Imagen de Telcel Up](https://dl2.pushbulletusercontent.com/zrbQG4r9UNDPZQHYItEjjbAe3ZnbDcVI/IMG_20171220_182636.png)
+
+- Dispisitivos Conectados
+- - 1401.pdf - 400px x 400px
+- - ![Icono de Dispositivos Conectados](https://dl2.pushbulletusercontent.com/Uxqsy0zh3aZlKOzHnPqmHYRf2KZxFwEg/IMG_20171226_122057.png)
+
+- Dispisitivos Conectados > Internet Of Things
+- - 1401.pdf - 1255px x 700px
+- - ![Imagen refeente a Internet de las Cosas](https://dl2.pushbulletusercontent.com/xqMC8DF7aKeNVNPHOUjSAgFJYkP4gi9a/IMG_20171226_121946.png)
+
+- Tips de Ventas > Código de atención > Código de atención 
+- - 1301.pdf - 1255px x 700px
+- - ![Imagen con los 3 valores de atención](https://dl2.pushbulletusercontent.com/9LZ9R7vw2HOe3bGatXTbWicq8Tm6zshH/IMG_20171226_122633.png)
+
+- Tips de Ventas > Código de atención > Lineamientos
+- - 1301.pdf - 1255px x 700px
+- - ![Imagen con los 5 pasos](https://dl2.pushbulletusercontent.com/FTz6d2NeFdkdgaR0tETLI7lI2caGNlRf/IMG_20171226_122846.png)
+
+- Dispositivos Conectados > Kids Watch
+- - 1402.pdf - 1255px x 700px
+- - ![Imagen de Padres e hijos siempre conectados](https://dl2.pushbulletusercontent.com/xrBaUJd9d5TP9bgKhCbqHe6BstWQ8z0a/IMG_20171226_154619.png)
+
+- Dispositivos Conectados >  Move Track
+- - 1403.pdf - 1255px x 700px
+- - ![Imagen de Mantén localizado lo que más te importa](https://dl2.pushbulletusercontent.com/eLyim225DEhKTp9XusaS9h0eAziE3iWV/IMG_20171226_160346.png)
