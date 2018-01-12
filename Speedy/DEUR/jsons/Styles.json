@@ -1,0 +1,1017 @@
+[
+    {
+      "background": "#005A9C",
+      "font": "#FFFFFF",
+      "id": 1,
+      "image": "http://c.n2c.mx/4857151a-8978-47f8-8d1b-13d9bf2d932b/icono_BeneficiosTelcel.png"
+    },
+    {
+      "background": "#006EAF",
+      "font": "#FFFFFF",
+      "id": 2,
+      "image": "http://c.n2c.mx/a2f531d5-0f40-4b8e-92b6-1dda0b8adce3/icono_BeneficiosTelcel.png"
+    },
+    {
+      "background": "#2485C7",
+      "font": "#FFFFFF",
+      "id": 3,
+      "image": "http://c.n2c.mx/a2f531d5-0f40-4b8e-92b6-1dda0b8adce3/icono_BeneficiosTelcel.png"
+    },
+    {
+      "background": "#459AD8",
+      "font": "#FFFFFF",
+      "id": 4,
+      "image": "http://c.n2c.mx/a2f531d5-0f40-4b8e-92b6-1dda0b8adce3/icono_BeneficiosTelcel.png"
+    },
+    {
+      "background": "#009FD5",
+      "font": "#FFFFFF",
+      "id": 5,
+      "image": "http://c.n2c.mx/8593eef0-555a-4516-a23f-da679033aa3d/icono_Destacado.png"
+    },
+    {
+      "background": "#4fb7e8",
+      "font": "#FFFFFF",
+      "id": 6
+    },
+    {
+      "background": "#d01586",
+      "font": "#FFFFFF",
+      "id": 7
+    },
+    {
+      "background": "#8e2a8b",
+      "font": "#FFFFFF",
+      "id": 8
+    },
+    {
+      "background": "#005490",
+      "font": "#FFFFFF",
+      "id": 9
+    },
+    {
+      "background": "#E4F1F7",
+      "bullet": "#296596",
+      "font": "#000000",
+      "id": 10
+    },
+    {
+      "background": "#FFFAEA",
+      "bullet": "#FFD756",
+      "font": "#000000",
+      "id": 11
+    },
+    {
+      "background": "#FFFFFF",
+      "font": "#ED4489",
+      "id": 12
+    },
+    {
+      "background": "#FFFFFF",
+      "font": "#005490",
+      "id": 13
+    },
+    {
+      "background": "#FFFFFF",
+      "font": "#000000",
+      "id": 14
+    },
+    {
+      "background": "#BCE8FD",
+      "font": "#FFFFFF",
+      "id": 19,
+      "image": "http://c.n2c.mx/3d3dba6e-cb41-486c-84b3-a9a126cbdb5b/icono_Destacado.png"
+    },
+    {
+      "background": "#2BC0F1",
+      "font": "#FFFFFF",
+      "id": 20,
+      "image": "http://c.n2c.mx/8de42e22-dd97-4056-b3c0-2178002c79a5/icono_PlanesBundle.png"
+    },
+    {
+      "background": "#00C9CB",
+      "font": "#FFFFFF",
+      "id": 21,
+      "image": "http://c.n2c.mx/ffcd8b32-06a5-4cfe-ad2e-45109a48e85a/icono_PlanesDeDatos.png"
+    },
+    {
+      "background": "#FFA000",
+      "font": "#FFFFFF",
+      "id": 22,
+      "image": "http://c.n2c.mx/23b4268a-3cc6-4064-b9b1-744bddd9d298/icono_EsquemasAmigo.png"
+    },
+    {
+      "background": "#FFD740",
+      "font": "#1F497D",
+      "id": 23,
+      "image": "http://c.n2c.mx/d5c4fc3f-deee-46a0-b954-eb0caa7d6c60/icono_AmigoKitYChip.png"
+    },
+    {
+      "background": "#FFD740",
+      "font": "#1F497D",
+      "id": 24,
+      "image": "http://c.n2c.mx/2bc09158-1b27-4d7a-ac18-d17fd5521078/icono_PaquetesAdicionales.png"
+    },
+    {
+      "background": "#A0A0A0",
+      "font": "#FFFFFF",
+      "id": 25,
+      "image": "http://c.n2c.mx/5acf86a1-2470-4fa6-9e3e-0cb1ee855559/icono_ServiciosAdicionales.png"
+    },
+    {
+      "background": "#33275E",
+      "font": "#FFFFFF",
+      "id": 26,
+      "image": "http://c.n2c.mx/8de8cea8-cf2d-41e2-b249-5ae00cc8107e/icono_ServiciosFijos.png"
+    },
+    {
+      "background": "#003966",
+      "font": "#FFFFFF",
+      "id": 27,
+      "image": "http://c.n2c.mx/23b4268a-3cc6-4064-b9b1-744bddd9d298/icono_EsquemasAmigo.png"
+    },
+    {
+      "background": "#EA3324",
+      "font": "#FFFFFF",
+      "id": 28,
+      "image": "http://c.n2c.mx/6bff2abf-a27b-44cf-a652-574d618bfcee/icono_Portabilidad.png"
+    },
+    {
+      "background": "#7D1B6C",
+      "font": "#FFFFFF",
+      "id": 29,
+      "image": "http://c.n2c.mx/b1ebba22-3444-4c37-96cf-5e827589c051/icono_HerramientasVentas.png"
+    },
+    {
+      "background": "#2F2F2F",
+      "font": "#FFFFFF",
+      "id": 30,
+      "image": "http://c.n2c.mx/d2c2ebed-031d-4450-824b-f74f6c00d96e/icono_MarcasPatrocinadas.png"
+    },
+    {
+      "background": "#FAD838",
+      "font": "#FFFFFF",
+      "id": 31,
+      "image": "http://c.n2c.mx/8593eef0-555a-4516-a23f-da679033aa3d/icono_Destacado.png"
+    },
+    {
+      "background": "#FFE64B",
+      "font": "#1F497D",
+      "id": 32,
+      "image": "http://c.n2c.mx/8593eef0-555a-4516-a23f-da679033aa3d/icono_Destacado.png"
+    },
+    {
+      "background": "#BCE8FD",
+      "font": "#1F497D",
+      "id": 33,
+      "image": "http://c.n2c.mx/8593eef0-555a-4516-a23f-da679033aa3d/icono_Destacado.png"
+    },
+    {
+      "background": "#0098D4",
+      "font": "#FFFFFF",
+      "id": 34,
+      "image": "http://c.n2c.mx/7b550f3f-b132-4d28-9423-3e06c98521dc/icono_PlanesBundle.png"
+    },
+    {
+      "background": "#00AAE4",
+      "font": "#FFFFFF",
+      "id": 35,
+      "image": "http://c.n2c.mx/7b550f3f-b132-4d28-9423-3e06c98521dc/icono_PlanesBundle.png"
+    },
+    {
+      "background": "#2BC0F1",
+      "font": "#1F497D",
+      "id": 36,
+      "image": "http://c.n2c.mx/7b550f3f-b132-4d28-9423-3e06c98521dc/icono_PlanesBundle.png"
+    },
+    {
+      "background": "#00AAE4",
+      "font": "#1F497D",
+      "id": 37,
+      "image": "http://c.n2c.mx/7b550f3f-b132-4d28-9423-3e06c98521dc/icono_PlanesBundle.png"
+    },
+    {
+      "background": "#0098D4",
+      "font": "#1F497D",
+      "id": 38,
+      "image": "http://c.n2c.mx/7b550f3f-b132-4d28-9423-3e06c98521dc/icono_PlanesBundle.png"
+    },
+    {
+      "background": "#00DADD",
+      "font": "#FFFFFF",
+      "id": 39,
+      "image": "http://c.n2c.mx/a9b793f9-e8e9-4486-8db0-6b164161e6b8/icono_PlanesDeDatos.png"
+    },
+    {
+      "background": "#00E8EA",
+      "font": "#1F497D",
+      "id": 40,
+      "image": "http://c.n2c.mx/a9b793f9-e8e9-4486-8db0-6b164161e6b8/icono_PlanesDeDatos.png"
+    },
+    {
+      "background": "#86FCFD",
+      "font": "#FFFFFF",
+      "id": 41,
+      "image": "http://c.n2c.mx/a9b793f9-e8e9-4486-8db0-6b164161e6b8/icono_PlanesDeDatos.png"
+    },
+    {
+      "background": "#00DADD",
+      "font": "#1F497D",
+      "id": 42,
+      "image": "http://c.n2c.mx/a9b793f9-e8e9-4486-8db0-6b164161e6b8/icono_PlanesDeDatos.png"
+    },
+    {
+      "background": "#00C9CB",
+      "font": "#FFFFFF",
+      "id": 43,
+      "image": "http://c.n2c.mx/a9b793f9-e8e9-4486-8db0-6b164161e6b8/icono_PlanesDeDatos.png"
+    },
+    {
+      "background": "#00DADC",
+      "font": "#1F497D",
+      "id": 44,
+      "image": "http://c.n2c.mx/a9b793f9-e8e9-4486-8db0-6b164161e6b8/icono_PlanesDeDatos.png"
+    },
+    {
+      "background": "#FFA000",
+      "font": "#FFFFFF",
+      "id": 45,
+      "image": "http://c.n2c.mx/4bd7dd93-0faa-430c-8b4d-e58a5fe9a12d/icono_EsquemasAmigo.png"
+    },
+    {
+      "background": "#FFD740",
+      "font": "#0D508C",
+      "id": 46,
+      "image": "http://c.n2c.mx/4bd7dd93-0faa-430c-8b4d-e58a5fe9a12d/icono_EsquemasAmigo.png"
+    },
+    {
+      "background": "#FFD740",
+      "font": "#1F497D",
+      "id": 47,
+      "image": "http://c.n2c.mx/4bd7dd93-0faa-430c-8b4d-e58a5fe9a12d/icono_EsquemasAmigo.png"
+    },
+    {
+      "background": "#FFA000",
+      "font": "#1F497D",
+      "id": 48,
+      "image": "http://c.n2c.mx/4bd7dd93-0faa-430c-8b4d-e58a5fe9a12d/icono_EsquemasAmigo.png"
+    },
+    {
+      "background": "#FFD740",
+      "font": "#0D508C",
+      "id": 49,
+      "image": "http://c.n2c.mx/1c024868-a749-418b-9fdb-19adfdf9c0f4/icono_AmigoKitYChip.png"
+    },
+    {
+      "background": "#3CD1F0",
+      "font": "#1F497D",
+      "id": 50,
+      "image": "http://c.n2c.mx/3ef80efe-9aec-4a1c-9423-95b5e0e79d50/icono_PaquetesAdicionales.png"
+    },
+    {
+      "background": "#70E0F9",
+      "font": "#1F497D",
+      "id": 51,
+      "image": "http://c.n2c.mx/3ef80efe-9aec-4a1c-9423-95b5e0e79d50/icono_PaquetesAdicionales.png"
+    },
+    {
+      "background": "#3CD1F0",
+      "font": "#FFFFFF",
+      "id": 52,
+      "image": "http://c.n2c.mx/3ef80efe-9aec-4a1c-9423-95b5e0e79d50/icono_PaquetesAdicionales.png"
+    },
+    {
+      "background": "#A0A0A0",
+      "font": "#FFFFFF",
+      "id": 53,
+      "image": "http://c.n2c.mx/47b6ba65-025e-4849-84d5-95e4b4ac86b0/icono_ServiciosAdicionales.png"
+    },
+    {
+      "background": "#C0C0C0",
+      "font": "#FFFFFF",
+      "id": 54,
+      "image": "http://c.n2c.mx/47b6ba65-025e-4849-84d5-95e4b4ac86b0/icono_ServiciosAdicionales.png"
+    },
+    {
+      "background": "#D3D3D3",
+      "font": "#FFFFFF",
+      "id": 55,
+      "image": "http://c.n2c.mx/47b6ba65-025e-4849-84d5-95e4b4ac86b0/icono_ServiciosAdicionales.png"
+    },
+    {
+      "background": "#B3B2B2",
+      "font": "#FFFFFF",
+      "id": 56,
+      "image": "http://c.n2c.mx/47b6ba65-025e-4849-84d5-95e4b4ac86b0/icono_ServiciosAdicionales.png"
+    },
+    {
+      "background": "#32226B",
+      "font": "#FFFFFF",
+      "id": 57,
+      "image": "http://c.n2c.mx/7575e170-5a2b-466a-80b9-c48bf6e8f1dc/icono_ServiciosFijos.png"
+    },
+    {
+      "background": "#513F8D",
+      "font": "#FFFFFF",
+      "id": 58,
+      "image": "http://c.n2c.mx/7575e170-5a2b-466a-80b9-c48bf6e8f1dc/icono_ServiciosFijos.png"
+    },
+    {
+      "background": "#075584",
+      "font": "#FFFFFF",
+      "id": 59,
+      "image": "http://c.n2c.mx/50d56b1c-2b00-4d32-be85-65e5898bd5f6/icono_EsquemaActivacion.png"
+    },
+    {
+      "background": "#30709E",
+      "font": "#FFFFFF",
+      "id": 60,
+      "image": "http://c.n2c.mx/50d56b1c-2b00-4d32-be85-65e5898bd5f6/icono_EsquemaActivacion.png"
+    },
+    {
+      "background": "#568DB7",
+      "font": "#FFFFFF",
+      "id": 61,
+      "image": "http://c.n2c.mx/50d56b1c-2b00-4d32-be85-65e5898bd5f6/icono_EsquemaActivacion.png"
+    },
+    {
+      "background": "#003966",
+      "font": "#FFFFFF",
+      "id": 62,
+      "image": "http://c.n2c.mx/50d56b1c-2b00-4d32-be85-65e5898bd5f6/icono_EsquemaActivacion.png"
+    },
+    {
+      "background": "#F6534B",
+      "font": "#FFFFFF",
+      "id": 63,
+      "image": "http://c.n2c.mx/58053c2c-4034-448c-a414-bda87380ab48/icono_Portabilidad.png"
+    },
+    {
+      "background": "#FC8783",
+      "font": "#FFFFFF",
+      "id": 64,
+      "image": "http://c.n2c.mx/58053c2c-4034-448c-a414-bda87380ab48/icono_Portabilidad.png"
+    },
+    {
+      "background": "#FFC2C0",
+      "font": "#FFFFFF",
+      "id": 65,
+      "image": "http://c.n2c.mx/58053c2c-4034-448c-a414-bda87380ab48/icono_Portabilidad.png"
+    },
+    {
+      "background": "#B2299B",
+      "font": "#FFFFFF",
+      "id": 66,
+      "image": "http://c.n2c.mx/b97b3182-aa1d-40ae-9384-ef2413147716/icono_HerramientasVentas.png"
+    },
+    {
+      "background": "#DD88CD",
+      "font": "#1F497D",
+      "id": 67,
+      "image": "http://c.n2c.mx/b97b3182-aa1d-40ae-9384-ef2413147716/icono_HerramientasVentas.png"
+    },
+    {
+      "background": "#F0CAE8",
+      "font": "#1F497D",
+      "id": 68,
+      "image": "http://c.n2c.mx/b97b3182-aa1d-40ae-9384-ef2413147716/icono_HerramientasVentas.png"
+    },
+    {
+      "background": "#555555",
+      "font": "#FFFFFF",
+      "id": 69,
+      "image": "http://c.n2c.mx/494e7dcd-e353-422d-a2ba-96d89a4922ea/icono_MarcasPatrocinadas.png"
+    },
+    {
+      "background": "#7C7C7C",
+      "font": "#FFFFFF",
+      "id": 70,
+      "image": "http://c.n2c.mx/494e7dcd-e353-422d-a2ba-96d89a4922ea/icono_MarcasPatrocinadas.png"
+    },
+    {
+      "background": "#9F9F9F",
+      "font": "#FFFFFF",
+      "id": 71,
+      "image": "http://c.n2c.mx/494e7dcd-e353-422d-a2ba-96d89a4922ea/icono_MarcasPatrocinadas.png"
+    },
+    {
+      "background": "#2F2F2F",
+      "font": "#FFFFFF",
+      "id": 72,
+      "image": "http://c.n2c.mx/494e7dcd-e353-422d-a2ba-96d89a4922ea/icono_MarcasPatrocinadas.png"
+    },
+    {
+      "background": "#FFE9A1",
+      "font": "#1F497D",
+      "id": 73,
+      "image": "http://c.n2c.mx/3ef80efe-9aec-4a1c-9423-95b5e0e79d50/icono_PaquetesAdicionales.png"
+    },
+    {
+      "background": "#ceeffe",
+      "bullet": "#4fb7e8",
+      "font": "#000000",
+      "id": 74
+    },
+    {
+      "background": "#fed5ee",
+      "bullet": "#d01586",
+      "font": "#000000",
+      "id": 75
+    },
+    {
+      "background": "#e9cee8",
+      "bullet": "#8e2a8b",
+      "font": "#000000",
+      "id": 76
+    },
+    {
+      "background": "#FFD756",
+      "font": "#1F497D",
+      "id": 78
+    },
+    {
+      "background": "#def7f7",
+      "bullet": "#009f9f",
+      "font": "#000000",
+      "id": 79
+    },
+    {
+      "background": "#165b9f",
+      "font": "#FFFFFF",
+      "id": 80
+    },
+    {
+      "background": "#f26922",
+      "font": "#FFFFFF",
+      "id": 81
+    },
+    {
+      "background": "#E4F1F7",
+      "bullet": "#165b9f",
+      "font": "#000000",
+      "id": 82
+    },
+    {
+      "background": "#fadecf",
+      "bullet": "#f26922",
+      "font": "#000000",
+      "id": 83
+    },
+    {
+      "background": "#0f3c68",
+      "font": "#FFFFFF",
+      "id": 84
+    },
+    {
+      "background": "#009f9f",
+      "font": "#FFFFFF",
+      "id": 85
+    },
+    {
+      "background": "#E4F1F7",
+      "bullet": "#0f3c68",
+      "font": "#000000",
+      "id": 86
+    },
+    {
+      "background": "#2485C7",
+      "font": "#FFFFFF",
+      "id": 88
+    },
+    {
+      "background": "#2ab2d8",
+      "font": "#FFFFFF",
+      "id": 89
+    },
+    {
+      "background": "#d7eff4",
+      "bullet": "#2485C7",
+      "font": "#000000",
+      "id": 90
+    },
+    {
+      "background": "#eaf7fb",
+      "bullet": "#2ab2d8",
+      "font": "#000000",
+      "id": 91
+    },
+    {
+      "background": "#50c1ec",
+      "font": "#FFFFFF",
+      "id": 92
+    },
+    {
+      "background": "#d8f2fc",
+      "bullet": "#50c1ec",
+      "font": "#000000",
+      "id": 93
+    },
+    {
+      "font": "#ED4489",
+      "id": 95
+    },
+    {
+      "background": "#CCE7F0",
+      "bullet": "#2CAAD2",
+      "font": "#000000",
+      "id": 96
+    },
+    {
+      "background": "#D9EAFB",
+      "bullet": "#165B9F",
+      "font": "#000000",
+      "id": 97
+    },
+    {
+      "background": "#D2FBFA",
+      "bullet": "#04BCB7",
+      "font": "#000000",
+      "id": 98
+    },
+    {
+      "background": "#CDF1F1",
+      "bullet": "#006969",
+      "font": "#000000",
+      "id": 99
+    },
+    {
+      "background": "#FED8D8",
+      "bullet": "#DB0606",
+      "font": "#000000",
+      "id": 100
+    },
+    {
+      "background": "#DDD8EF",
+      "bullet": "#513F8D",
+      "font": "#000000",
+      "id": 101
+    },
+    {
+      "background": "#296596",
+      "bullet": "#E4F1F7",
+      "font": "#000000",
+      "id": 102
+    },
+    {
+      "background": "#FCDCF7",
+      "bullet": "#B2299B",
+      "font": "#000000",
+      "id": 104
+    },
+    {
+      "background": "#D7EFF4",
+      "bullet": "#369FD8",
+      "id": 105
+    },
+    {
+      "font": "#005490",
+      "id": 106
+    },
+    {
+      "background": "#CFE6F1",
+      "bullet": "#0078B4",
+      "font": "#000000",
+      "id": 107
+    },
+    {
+      "background": "#D8F2FC",
+      "bullet": "#50C1EC",
+      "font": "#000000",
+      "id": 108
+    },
+    {
+      "background": "#F1C7C7",
+      "bullet": "#DB0606",
+      "font": "#000000",
+      "id": 109
+    },
+    {
+      "background": "#F6D9E7",
+      "bullet": "#DE006D",
+      "font": "#000000",
+      "id": 110
+    },
+    {
+      "background": "#ED4489",
+      "font": "#FFFFFF",
+      "id": 111
+    },
+    {
+      "background": "#2CAAD2",
+      "font": "#FFFFFF",
+      "id": 112
+    },
+    {
+      "background": "#DB0606",
+      "font": "#FFFFFF",
+      "id": 113
+    },
+    {
+      "background": "#001735",
+      "font": "#FFFFFF",
+      "id": 114
+    },
+    {
+      "background": "#666666",
+      "font": "#FFFFFF",
+      "id": 115
+    },
+    {
+      "background": "#D77EC1",
+      "font": "#FFFFFF",
+      "id": 116
+    },
+    {
+      "background": "#369FD8",
+      "font": "#FFFFFF",
+      "id": 117
+    },
+    {
+      "background": "#0078B4",
+      "font": "#FFFFFF",
+      "id": 118
+    },
+    {
+      "background": "#05375F",
+      "font": "#FFFFFF",
+      "id": 119
+    },
+    {
+      "background": "#5C6C8E",
+      "font": "#FFFFFF",
+      "id": 120
+    },
+    {
+      "background": "#5F3250",
+      "font": "#FFFFFF",
+      "id": 121
+    },
+    {
+      "background": "#DE006D",
+      "font": "#FFFFFF",
+      "id": 122
+    },
+    {
+      "background": "#0086C8",
+      "font": "#FFFFFF",
+      "id": 123
+    },
+    {
+      "background": "#2AB2D9",
+      "font": "#FFFFFF",
+      "id": 124
+    },
+    {
+      "background": "#643055",
+      "font": "#FFFFFF",
+      "id": 125
+    },
+    {
+      "background": "#F5660A",
+      "font": "#FFFFFF",
+      "id": 126
+    },
+    {
+      "background": "#F6534B",
+      "font": "#FFFFFF",
+      "id": 128
+    },
+    {
+      "background": "#F26B6B",
+      "font": "#FFFFFF",
+      "id": 129
+    },
+    {
+      "background": "#FC8783",
+      "font": "#FFFFFF",
+      "id": 130
+    },
+    {
+      "background": "#FFFFFF",
+      "font": "#00599B",
+      "id": 131
+    },
+    {
+      "background": "#ECEFF1",
+      "font": "#263238",
+      "id": 132,
+      "image": "http://c.n2c.mx/ec14dc3b-99ae-4981-be3f-5c0e6c4e07a8/Icono_TelcelMaxlimite.png"
+    },
+    {
+      "background": "#F5F5F5",
+      "font": "#263238",
+      "id": 133,
+      "image": "http://c.n2c.mx/be0d373e-39a7-4da4-8542-6b3e0404833a/Icono_Consumo.png"
+    },
+    {
+      "background": "#ECEFF1",
+      "font": "#263238",
+      "id": 134,
+      "image": "http://c.n2c.mx/1ddc3589-46ae-49c1-9f89-781f0bc1404b/IconoDatosIncluidosMexico.png"
+    },
+    {
+      "background": "#ECEFF1",
+      "font": "#263238",
+      "id": 135,
+      "image": "http://c.n2c.mx/379d244f-ae51-4d78-8ab4-47c7f9c53b88/IconosMinutos.png"
+    },
+    {
+      "background": "#F5F5F5",
+      "font": "#263238",
+      "id": 136,
+      "image": "http://c.n2c.mx/82b0a118-40fa-4df9-98ce-e5317675c824/IconosSMS.png"
+    },
+    {
+      "background": "#ECEFF1",
+      "font": "#263238",
+      "id": 137,
+      "image": "http://c.n2c.mx/2d336495-e72e-4035-bed8-a28779ea0f2e/IconosWhatsApp.png"
+    },
+    {
+      "background": "#ECEFF1",
+      "font": "#263238",
+      "id": 138,
+      "image": "http://c.n2c.mx/939d9017-4ada-401f-956d-ed6fb88ebb2d/IconosFacebookTwitter.png"
+    },
+    {
+      "background": "#F5F5F5",
+      "font": "#263238",
+      "id": 139,
+      "image": "http://c.n2c.mx/18b21866-f75c-4463-b699-e049fec05a86/IconosClaroVideo.png"
+    },
+    {
+      "background": "#ECEFF1",
+      "font": "#263238",
+      "id": 140,
+      "image": "http://c.n2c.mx/97348850-301c-411f-a83f-bc35deb11b34/IconosCargoMensualEquipo.png"
+    },
+    {
+      "background": "#ECEFF1",
+      "font": "#263238",
+      "id": 141,
+      "image": "http://c.n2c.mx/b3f2a2fb-f745-4d1e-a613-41f3fad7d781/IconosBonificacionMensualPagoOportuno.png"
+    },
+    {
+      "background": "#F5F5F5",
+      "font": "#263238",
+      "id": 142,
+      "image": "http://c.n2c.mx/220632a0-9585-4926-a60e-d58a2cdc0e81/IconosCargoMenosBonificacionApagarPorEquipo.png"
+    },
+    {
+      "font": "#263238",
+      "id": 143
+    },
+    {
+      "background": "#D7EFF4",
+      "bullet": "#2485C7",
+      "font": "#000000",
+      "id": 146
+    },
+    {
+      "background": "#ec5951",
+      "font": "#FFFFFF",
+      "id": 147
+    },
+    {
+      "background": "#FC8783",
+      "font": "#000000",
+      "id": 148
+    },
+    {
+      "background": "#F6534B",
+      "font": "#FFFFFF",
+      "hover": "#FC8783",
+      "id": 149
+    },
+    {
+      "background": "#ECEFF1",
+      "font": "#263238",
+      "id": 150
+    },
+    {
+      "background": "#F5F5F5",
+      "font": "#263238",
+      "id": 151
+    },
+    {
+      "background": "#ECEFF1",
+      "font": "#263238",
+      "id": 152
+    },
+    {
+      "background": "#ECEFF1",
+      "font": "#263238",
+      "id": 153
+    },
+    {
+      "background": "#F5F5F5",
+      "font": "#263238",
+      "id": 154
+    },
+    {
+      "background": "#ECEFF1",
+      "font": "#263238",
+      "id": 155
+    },
+    {
+      "background": "#039BE5",
+      "font": "#FFFFFF",
+      "id": 156
+    },
+    {
+      "background": "#E4F1F7",
+      "font": "#000000",
+      "id": 157
+    },
+    {
+      "background": "#000000",
+      "font": "#FFFFFF",
+      "id": 158
+    },
+    {
+      "background": "#db0606",
+      "font": "#FFFFFF",
+      "hover": "#f26b6b",
+      "id": 159
+    },
+    {
+      "background": "#001735",
+      "font": "#FFFFFF",
+      "id": 160,
+      "image": "http://c.n2c.mx/f760d238-2db6-4ad1-afa0-7d921b261490/Simbolo_VIP.png"
+    },
+    {
+      "background": "#05375F",
+      "font": "#FFFFFF",
+      "id": 161,
+      "image": "http://c.n2c.mx/415d0ce1-e1a1-44dc-8087-f9129095e7d0/Simbolo_Excelente.png"
+    },
+    {
+      "background": "#165B9F",
+      "font": "#FFFFFF",
+      "id": 162,
+      "image": "http://c.n2c.mx/2b601a81-c555-4691-a28f-756137e39532/Simbolo_Bueno.png"
+    },
+    {
+      "background": "#0086C8",
+      "font": "#FFFFFF",
+      "id": 163,
+      "image": "http://c.n2c.mx/a4ca8ebe-56e6-4a65-b053-67c7693c2ebc/Simbolo_Regular.png"
+    },
+    {
+      "background": "#643055",
+      "font": "#FFFFFF",
+      "id": 164,
+      "image": "http://c.n2c.mx/206dace1-06d7-45ef-8569-5cceb82b3095/Simbolo_SinHistorial.png"
+    },
+    {
+      "background": "#D77EC1",
+      "font": "#FFFFFF",
+      "id": 165,
+      "image": "http://c.n2c.mx/25456c8d-aa4c-4e1f-b29f-111361303642/Simbolo_SinValidacion.png"
+    },
+    {
+      "background": "#00599B",
+      "font": "#FFFFFF",
+      "id": 166,
+      "image": "http://c.n2c.mx/d4a09f45-d0d1-4161-a808-d6830f2b665c/IconoWIFI.png"
+    },
+    {
+      "background": "#AACDE2",
+      "font": "#FFFFFF",
+      "id": 167,
+      "image": "http://c.n2c.mx/97348850-301c-411f-a83f-bc35deb11b34/IconosCargoMensualEquipo.png"
+    },
+    {
+      "background": "#0F3C68",
+      "font": "#FFFFFF",
+      "id": 168
+    },
+    {
+      "background": "#165B9F",
+      "font": "#FFFFFF",
+      "id": 169
+    },
+    {
+      "background": "#0086C8",
+      "font": "#FFFFFF",
+      "id": 170
+    },
+    {
+      "background": "#2AB2D9",
+      "font": "#FFFFFF",
+      "id": 171
+    },
+    {
+      "background": "#F5660A",
+      "font": "#FFFFFF",
+      "id": 172
+    },
+    {
+      "background": "#8FBEDC",
+      "font": "#FFFFFF",
+      "id": 173,
+      "image": "http://c.n2c.mx/e002fad1-9860-433c-8b03-516ee6e699d5/IconosBonificacionTotalizada.png"
+    },
+    {
+      "background": "#5F3250",
+      "font": "#FFFFFF",
+      "id": 174,
+      "image": "http://c.n2c.mx/206dace1-06d7-45ef-8569-5cceb82b3095/Simbolo_SinHistorial.png"
+    },
+    {
+      "background": "#165B9F",
+      "font": "#FFFFFF",
+      "id": 175,
+      "image": "http://c.n2c.mx/2d3075fb-e458-4f4b-ae28-8f39618b597d/Simbolo_MalHistorial.png"
+    },
+    {
+      "background": "#D77EC1",
+      "font": "#FFFFFF",
+      "id": 176,
+      "image": "http://c.n2c.mx/2b601a81-c555-4691-a28f-756137e39532/Simbolo_Bueno.png"
+    },
+    {
+      "background": "#0081A8",
+      "font": "#FFFFFF",
+      "id": 177,
+      "image": "http://c.n2c.mx/db00baa8-a00d-4af2-87e4-c9966b2fc2f8/IconoCargoMensualEquipo.png"
+    },
+    {
+      "background": "#54A3C4",
+      "font": "#FFFFFF",
+      "id": 178,
+      "image": "http://c.n2c.mx/e002fad1-9860-433c-8b03-516ee6e699d5/IconosBonificacionTotalizada.png"
+    },
+    {
+      "background": "#0093BC",
+      "font": "#FFFFFF",
+      "id": 179,
+      "image": "http://c.n2c.mx/24474920-c130-4a71-9bc1-2107912beec6/IconosCArgoMenosBonificacionPorEquipo.png"
+    },
+    {
+      "background": "#55C1E1",
+      "font": "#FFFFFF",
+      "id": 180
+    },
+    {
+      "background": "#00599B",
+      "font": "#FFFFFF",
+      "id": 181,
+      "image": "http://c.n2c.mx/1ddc3589-46ae-49c1-9f89-781f0bc1404b/IconoDatosIncluidosMexico.png"
+    },
+    {
+      "background": "#0093BC",
+      "font": "#FFFFFF",
+      "id": 182,
+      "image": "http://c.n2c.mx/2d336495-e72e-4035-bed8-a28779ea0f2e/IconosWhatsApp.png"
+    },
+    {
+      "background": "#54A3C4",
+      "font": "#FFFFFF",
+      "id": 183,
+      "image": "http://c.n2c.mx/939d9017-4ada-401f-956d-ed6fb88ebb2d/IconosFacebookTwitter.png"
+    },
+    {
+      "background": "#AACDE2",
+      "font": "#FFFFFF",
+      "id": 184,
+      "image": "http://c.n2c.mx/a2b501ad-7c4e-4fdc-ba77-aee41bfe367a/IconosVigencia.png"
+    },
+    {
+      "background": "#8FBEDC",
+      "font": "#FFFFFF",
+      "id": 185,
+      "image": "http://c.n2c.mx/82edf9b5-acf4-4ad3-911c-42348703105e/IconosClaveRecurrente.png"
+    },
+    {
+      "background": "#0081A8",
+      "font": "#FFFFFF",
+      "id": 186,
+      "image": "http://c.n2c.mx/7cc252ca-7445-4317-8cef-b6d33797a71e/IconosClaveBajoDemanda.png"
+    },
+    {
+      "background": "#00599B",
+      "font": "#FFFFFF",
+      "id": 187,
+      "image": "http://c.n2c.mx/a06b0f46-7da5-4023-b7fc-12e3d6b78ae6/IconosYouTubeFacebookTwitter.png"
+    },
+    {
+      "background": "#0093BC",
+      "font": "#FFFFFF",
+      "id": 188,
+      "image": "http://c.n2c.mx/a2b501ad-7c4e-4fdc-ba77-aee41bfe367a/IconosVigencia.png"
+    },
+    {
+      "background": "#54A3C4",
+      "font": "#FFFFFF",
+      "id": 189,
+      "image": "http://c.n2c.mx/82edf9b5-acf4-4ad3-911c-42348703105e/IconosClaveRecurrente.png"
+    },
+    {
+      "background": "#d6f2fd",
+      "bullet": "#55C1E1",
+      "font": "#000000",
+      "id": 190
+    }
+  ]

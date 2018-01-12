@@ -45,3 +45,17 @@
 - Dispositivos Conectados >  Move Track
 - - 1403.pdf - 1255px x 700px
 - - ![Imagen de Mantén localizado lo que más te importa](https://dl2.pushbulletusercontent.com/eLyim225DEhKTp9XusaS9h0eAziE3iWV/IMG_20171226_160346.png)
+
+- Max Control
+    - 0601.pdf - 400px x 400px
+    - ![Logo Max Control](https://dl2.pushbulletusercontent.com/hVmBE0Ypva9fOe3hwCN60OiRvOxVEsld/IMG_20171227_132104.png)
+
+- Max Control > Max Control
+    - 0601.pdf - 1255px x 700px - Imagen general de Max Control
+- Max Control > Beneficios y Promociones
+    - 0602.pdf - 405px x 600px - Imagenes de beneficios
+    - !(https://dl2.pushbulletusercontent.com/GSc1LfRPui0DZnPhl74BeAsGorFw38B7/IMG_20171227_132449.png)
+- Max Control > Tabla de Beneficios Incluidos
+    - ![](https://dl2.pushbulletusercontent.com/T5vdkY0GQ1gIg1wMF97olYMLR3kj1EUI/IMG_20180102_113507.png)
+- Max Control > Costos Adicionales
+    - ![](https://dl2.pushbulletusercontent.com/1zZx5TbFV9IxYgujcA9e42BdwixZJDiD/IMG_20180102_114849.png)

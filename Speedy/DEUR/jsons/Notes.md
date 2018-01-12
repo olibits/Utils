@@ -1,0 +1,20 @@
+- Max Control
+    - Sección Nueva
+        - Max Control - Imagen grande
+        - Beneficios y Promociones 4 secciones
+        - Max Control Plan
+        - Consumos adicionales Plan
+        
+- Planes de Datos
+    - Subsección Nueva
+    - Subsección Nueva
+    - Subsección Nueva
+    - Subsección Nueva
+    - Verificación de la información
+- Plnes y Esquemas Fijos
+    - Subsección Nueva
+    - Verificación de la información
+- Esquemas de Activaciones
+    - Verificación de la información
+- Promociones de Portabilidad
+    - Verificación de la información

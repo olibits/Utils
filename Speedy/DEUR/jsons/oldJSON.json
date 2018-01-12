@@ -1,4 +1,4 @@
-{
+ {
   "background": {
     "content": "http://c.n2c.mx/16422013-89e5-4567-b220-04155909bafe/Background.png",
     "id": 107
@@ -43702,7 +43702,191 @@
       "id": 7104,
       "priority": 14,
       "style": 30
+    },
+
+    {
+      "content": "Max Control",
+      "id": 7115,
+      "priority": 15,
+      "style": 30,
+      "dataSecond": [
+        {
+          "id": 7116,
+          "content": "Beneficios y Promociones",
+          "priority": 4,
+          "template": 3,
+          "style": 4,
+          "dataThird": {
+            "header": {
+              "subsection": {
+                "id": 7116,
+                "style": 4,
+                "text": "Beneficios y Promociones"
+              }
+            },
+            "body": {
+              "data": [
+                {
+                  "name": {
+                    "id": 7117,
+                    "style": 85,
+                    "text": "Beneficios y Promociones",
+                    "priority": 1
+                  },
+                  "title": {
+                    "id": 7118,
+                    "style": 131,
+                    "text": "Es el esquema en el que se adquiere, en un solo pago, un Equipo que incluye 6 ó 12 meses de Servicio prepagado.",
+                    "priority": 2
+                  },
+                  "image": [
+                    {
+                      "id": 7119,
+                      "text": "https://i.imgur.com/2oRaoEi.jpg",
+                      "priority": 11
+                    },
+                    {
+                      "id": 7120,
+                      "text": "https://i.imgur.com/GMPc2xI.jpg",
+                      "priority": 12
+                    },
+                    {
+                      "id": 7121,
+                      "text": "https://i.imgur.com/GMPc2xI.jpg",
+                      "priority": 13
+                    },
+                    {
+                      "id": 7122,
+                      "text": "https://i.imgur.com/GMPc2xI.jpg",
+                      "priority": 14
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": 7147,
+          "content": "Tabla de Beneficios Incluidos",
+          "priority": 5,
+          "template": 6,
+          "style": 3,
+          "dataThird": {
+            "header": {
+              "subsection": {
+                "id": 7147,
+                "style": 3,
+                "text": "Tabla de Beneficios Incluidos"
+              }
+            },
+            "body": {
+              "data": [
+                {
+                  "image": [
+                    {
+                      "id": 7148,
+                      "text": "https://dummyimage.com/1255x700/000/fff.png&text=1255x700+0604+Max+Control+Tabla",
+                      "priority": 1
+                    }
+                  ],
+                  "titleContent": [
+                    {
+                      "title": {
+                        "id": 7149,
+                        "style": 14,
+                        "text": "Max Control",
+                        "priority": 100
+                      },
+                      "content": [
+                        {
+                          "id": 7150,
+                          "style": 86,
+                          "text": "Promoción Redes Sociales ILIMITADAS: Vigente al xx de xx 20xx",
+                          "priority": 101
+                        },
+                        {
+                          "id": 7151,
+                          "style": 86,
+                          "text": "Promoción UBER dentro de Redeso Sociales ILIMITADAS: Vigente al xx de xx 20xx",
+                          "priority": 102
+                        },
+                        {
+                          "id": 7152,
+                          "style": 86,
+                          "text": "Promoción Claro Video INCLUIDO: Vigente al xx de xx 20xx",
+                          "priority": 103
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": 7153,
+          "content": "Consumos Adicionales",
+          "priority": 5,
+          "template": 6,
+          "style": 3,
+          "dataThird": {
+            "header": {
+              "subsection": {
+                "id": 7153,
+                "style": 3,
+                "text": "Consumos Adicionales"
+              }
+            },
+            "body": {
+              "data": [
+                {
+                  "image": [
+                    {
+                      "id": 7154,
+                      "text": "https://dummyimage.com/1255x700/000/fff.png&text=1255x700+0605+Max+Control+Tabla+Consumos+Adicionales",
+                      "priority": 1
+                    }
+                  ],
+                  "titleContent": [
+                    {
+                      "title": {
+                        "id": 7155,
+                        "style": 14,
+                        "text": "Max Control",
+                        "priority": 100
+                      },
+                      "content": [
+                        {
+                          "id": 7156,
+                          "style": 86,
+                          "text": "Si el Cliente agota los megas incluidos en su Plan, tiene la opción de Recargar Saldo para:",
+                          "priority": 101
+                        },
+                        {
+                          "id": 7157,
+                          "style": 86,
+                          "text": "Seguir navegando con tarifa de: $0.25 MB \nActivar paquetes Prepago\nActivar servicios adicionales disponibles para Prepago",
+                          "priority": 102
+                        },
+                        {
+                          "id": 7158,
+                          "style": 86,
+                          "text": "No estan dsponibles servicios con cargo a Factura",
+                          "priority": 103
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
     }
+
   ],
   "style": [
     {
